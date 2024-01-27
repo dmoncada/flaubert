@@ -1,0 +1,2587 @@
+[
+  {
+    "key": "abelard",
+    "term": "ABÉLARD",
+    "definitions": [
+      "Inutile d'avoir la moindre idée de sa philosophie, ni même de connaître le titre de ses ouvrages.",
+      "Faire une allusion discrète à la mutilation opérée sur lui par Fulbert.",
+      "Tombeau d'Héloïse et d'Abélard; si l'on vous prouve qu'il est faux, s'écrier: «Vous m'otez mes illusions.»"
+    ]
+  },
+  { "key": "abricots", "term": "ABRICOTS", "definitions": ["Nous n'en aurons pas encore cette année."] },
+  {
+    "key": "absalon",
+    "term": "ABSALON",
+    "definitions": ["S'il eût porté perruque, Joab n'aurait pu le tuer.", "Nom facétieux à donner à un ami chauve."]
+  },
+  {
+    "key": "absinthe",
+    "term": "ABSINTHE",
+    "definitions": [
+      "Poison extra-violent: un verre et vous êtes mort.",
+      "Les journalistes en boivent pendant qu'ils écrivent leurs articles.",
+      "A tué plus de soldats que les Bédouins."
+    ]
+  },
+  {
+    "key": "academie-francaise",
+    "term": "ACADÉMIE FRANÇAISE",
+    "definitions": ["La dénigrer, mais tâcher d'en faire partie si on peut."]
+  },
+  {
+    "key": "accident",
+    "term": "ACCIDENT",
+    "definitions": [
+      "Toujours déplorable ou fâcheux (comme si on devait jamais trouver un malheur une chose réjouissante...)."
+    ]
+  },
+  {
+    "key": "accouchement",
+    "term": "ACCOUCHEMENT",
+    "definitions": ["Mot à éviter; le remplacer par événement. «Pour quelle époque attendez-vous l'événement?»"]
+  },
+  {
+    "key": "achille",
+    "term": "ACHILLE",
+    "definitions": ["Ajouter «aux pieds légers»; cela donne à croire qu'on a lu Homère."]
+  },
+  {
+    "key": "actrices",
+    "term": "ACTRICES",
+    "definitions": [
+      "La perte des fils de famille.",
+      "Sont d'une lubricité effrayante, se livrent à des orgies, avalent des millions (finissent à l'hôpital).",
+      "Pardon! il y en a qui sont bonnes mères de famille!"
+    ]
+  },
+  {
+    "key": "adieux",
+    "term": "ADIEUX",
+    "definitions": ["Mettre des larmes dans sa voix en parlant des adieux de Fontainebleau."]
+  },
+  {
+    "key": "adolescent",
+    "term": "ADOLESCENT",
+    "definitions": [
+      "Ne jamais commencer un discours de distribution des prix autrement que par «Jeunes adolescents» (ce qui est un pléonasme)."
+    ]
+  },
+  {
+    "key": "affaires",
+    "term": "AFFAIRES (LES)",
+    "definitions": [
+      "Passent avant tout.",
+      "Une femme doit éviter de parler des siennes.",
+      "Sont dans la vie ce qu'il y a de plus important.",
+      "Tout est là."
+    ]
+  },
+  {
+    "key": "agriculture",
+    "term": "AGRICULTURE",
+    "definitions": [
+      "Une des mamelles de l'Etat (l'Etat est du genre masculin, mais ça ne fait rien).",
+      "On devrait l'encourager.",
+      "Manque de bras."
+    ]
+  },
+  {
+    "key": "ail",
+    "term": "AIL",
+    "definitions": [
+      "Tue les vers intestinaux et dispose aux combats de l'amour.",
+      "On en frotta les lèvres de Henri IV au moment où il vient au monde."
+    ]
+  },
+  {
+    "key": "air",
+    "term": "AIR",
+    "definitions": [
+      "Toujours se méfier des courants d'air.",
+      "Invariablement, le fond de l'air est en contradiction avec la température: si elle est chaude, il est froid, et l'inverse."
+    ]
+  },
+  { "key": "airain", "term": "AIRAIN", "definitions": ["Métal de l'antiquité."] },
+  {
+    "key": "albatre",
+    "term": "ALBÂTRE",
+    "definitions": ["Sert à décrire les plus belles parties du corps de la femme."]
+  },
+  {
+    "key": "albion",
+    "term": "ALBION",
+    "definitions": [
+      "Toujours précédé de blanche, perfide, positive.",
+      "Il s'en est fallu de bien peu que Napoléon en fît la conquête.",
+      "En faire l'éloge: la libre Angleterre."
+    ]
+  },
+  {
+    "key": "alcibiade",
+    "term": "ALCIBIADE",
+    "definitions": ["Célèbre par la queue de son chien.", "Type de débauché.", "Fréquentait Aspasie."]
+  },
+  {
+    "key": "alcoolisme",
+    "term": "ALCOOLISME",
+    "definitions": ["Cause de toutes les maladies modernes (Voy. absinthe et tabac)."]
+  },
+  {
+    "key": "allemagne",
+    "term": "ALLEMAGNE",
+    "definitions": ["Toujours précédé de blonde, rêveuse.", "Mais quelle organisation militaire."]
+  },
+  {
+    "key": "allemands",
+    "term": "ALLEMANDS",
+    "definitions": [
+      "Peuple de rêveurs (vieux).",
+      "Ce n'est pas étonnant qu'ils nous aient battus, nous n'étions pas prêts!"
+    ]
+  },
+  {
+    "key": "ambitieux",
+    "term": "AMBITIEUX",
+    "definitions": [
+      "En province, tout homme qui fait parler de lui.",
+      "«Je ne suis pas ambitieux, moi!» veut dire égoïste ou incapable."
+    ]
+  },
+  { "key": "ambition", "term": "AMBITION", "definitions": ["Toujours précédé de folle quand elle n'est pas noble."] },
+  {
+    "key": "amerique",
+    "term": "AMÉRIQUE",
+    "definitions": [
+      "Bel exemple d'injustice: c'est Colomb qui la découvrit, et elle tire son nom d'Améric Vespuce.",
+      "Sans la découverte de la 'Amérique, nous n'aurions pas la syphilis et le phylloxéra.",
+      "L'exalter quand même, surtout quand on n'y a pas été.",
+      "Faire une tirade sur le self-government."
+    ]
+  },
+  { "key": "amiral", "term": "AMIRAL", "definitions": ["Toujours brave.", "Ne jure que par «mille sabords!»"] },
+  { "key": "androcles", "term": "ANDROCLES", "definitions": ["Citer le lion d'Androclès à propos de dompteurs."] },
+  { "key": "ange", "term": "ANGE", "definitions": ["Fait bien en amour et en littérature."] },
+  { "key": "anglais", "term": "ANGLAIS", "definitions": ["Tous riches."] },
+  { "key": "anglaises", "term": "ANGLAISES", "definitions": ["S'étonner de ce qu'elles ont de jolis enfants."] },
+  { "key": "antechrist", "term": "ANTECHRIST", "definitions": ["Voltaire, Renan..."] },
+  {
+    "key": "antiquite-et-tout-ce-qui-sy-rapporte",
+    "term": "ANTIQUITÉ ET TOUT CE QUI S'Y RAPPORTE",
+    "definitions": ["Poncif, embêtant."]
+  },
+  { "key": "antiquites", "term": "ANTIQUITÉS (LES)", "definitions": ["Sont toujours de fabrication moderne."] },
+  { "key": "aplomb", "term": "APLOMB", "definitions": ["Toujours suivi de infernal ou précédé de rude."] },
+  {
+    "key": "appartement",
+    "term": "APPARTEMENT (DE GARÇON)",
+    "definitions": [
+      "Toujours en désordre, avec des colifichets de femme traînant ça et là.",
+      "Odeur de cigarettes.",
+      "On doit y trouver des choses extraordinaires."
+    ]
+  },
+  {
+    "key": "arbalete",
+    "term": "ARBALETE",
+    "definitions": ["Belle occasion pour raconter l'histoire de Guillaume Tell."]
+  },
+  {
+    "key": "archimede",
+    "term": "ARCHIMÈDE",
+    "definitions": [
+      "Dire à son nom: «Eurèka.»",
+      "«Donnez-moi un point d'appui et je soulèverai le monde.»",
+      "Il y encore la vis d'Archimède; mais on n'est pas tenu de savoir en quoi elle consiste."
+    ]
+  },
+  {
+    "key": "architectes",
+    "term": "ARCHITECTES",
+    "definitions": ["Tous imbéciles.", "Oublient toujours l'escalier des maisons."]
+  },
+  {
+    "key": "architecture",
+    "term": "ARCHITECTURE",
+    "definitions": [
+      "Il n'y a que quatre ordres d'architecture, bien entendu qu'on ne compte pas l'égyptien, le cyclopéen, l'assyrien, l'indien, le chinois, gothique, roman, etc."
+    ]
+  },
+  {
+    "key": "argent",
+    "term": "ARGENT",
+    "definitions": [
+      "Cause de tout le mal.",
+      "Dire: «Auri sacra fames.»",
+      "Le dieu du jour (ne pas confondre avec Apollon).",
+      "Les ministres le nomment traitement, les notaires émoluments, les médecins honoraires, les employés appointements, les ouvriers salaires, les domestiques gages.",
+      "L'argent ne fait pas le bonheur."
+    ]
+  },
+  { "key": "armee", "term": "ARMÉE", "definitions": ["Le rempart de la Société."] },
+  {
+    "key": "arsenic",
+    "term": "ARSENIC",
+    "definitions": ["Se trouve partout (rappeler Mme Lafarge).", "Cependant, il y a des peuples qui en mangent."]
+  },
+  { "key": "art", "term": "ART", "definitions": ["Ca mène à l'hôpital."] },
+  {
+    "key": "artistes",
+    "term": "ARTISTES",
+    "definitions": [
+      "Tous farceurs.",
+      "Vanter leur désintéressement (vieux).",
+      "S'étonner de ce qu'ils sont habillés comme tout le monde (vieux).",
+      "Gagnent des sommes folles, mais les jettent par les fenêtres.",
+      "Souvent invités à dîner en ville.",
+      "Femme artiste ne peut être qu'une catin.",
+      "Ce qu'ils font ne peut s'appeler travailler."
+    ]
+  },
+  {
+    "key": "arts",
+    "term": "ARTS",
+    "definitions": ["Sont bien inutiles, puisqu'on les remplace par des machines qui fabriquent même plus promptement."]
+  },
+  { "key": "aspic", "term": "ASPIC", "definitions": ["Animal connu par le panier de figues de Cléopâtre."] },
+  {
+    "key": "assassin",
+    "term": "ASSASSIN",
+    "definitions": ["Toujours lâche, même quand il a été intrépide et audacieux.", "Moins coupable qu'un incendiaire."]
+  },
+  {
+    "key": "astronomie",
+    "term": "ASTRONOMIE",
+    "definitions": [
+      "Belle science.",
+      "Très utile pour (n'est utile que pour) la marine.",
+      "Et, à ce propos, rire de l'astrologie."
+    ]
+  },
+  { "key": "athee", "term": "ATHÉE", "definitions": ["Un peuple d'athées ne saurait subsister."] },
+  {
+    "key": "auteur",
+    "term": "AUTEUR",
+    "definitions": ["On doit «connaître des auteurs»; inutile de savoir leurs noms."]
+  },
+  { "key": "autruche", "term": "AUTRUCHE", "definitions": ["Digère les pierres."] },
+  {
+    "key": "avocats",
+    "term": "AVOCATS",
+    "definitions": [
+      "Trop d'avocats à la Chambre.",
+      "Ont le jugement faussé.",
+      "Dire d'un avocat qui parle mal: «Oui, mais il est fort en droit.»"
+    ]
+  },
+  { "key": "baccalaureat", "term": "BACCALAURÉAT", "definitions": ["Tonner contre."] },
+  {
+    "key": "badaud",
+    "term": "BADAUD",
+    "definitions": [
+      "Tous les Parisiens sont des badauds quoique sur dix habitants de Paris il y ait neuf provinciaux.",
+      "A Paris on ne travaille pas."
+    ]
+  },
+  {
+    "key": "badigeon",
+    "term": "BADIGEON (DANS LES ÉGLISES)",
+    "definitions": ["Tonner contre. Cette colère artistique est extrêmement bien portée."]
+  },
+  { "key": "bagnolet", "term": "BAGNOLET", "definitions": ["Pays célèbre par ses aveugles."] },
+  {
+    "key": "bague",
+    "term": "BAGUE",
+    "definitions": [
+      "Il est très distingué de la porter au doigt indicateur.",
+      "La mettre au pouce est trop oriental.",
+      "Porter des bagues déforme les doigts."
+    ]
+  },
+  {
+    "key": "baillement",
+    "term": "BAILLEMENT",
+    "definitions": ["Il faut dire: «Excusez-moi, ça ne vient pas d'ennui, mais de l'estomac.»"]
+  },
+  {
+    "key": "baiser",
+    "term": "BAISER",
+    "definitions": [
+      "Dire embrasser, plus décent.",
+      "Doux larcin.",
+      "Le baiser se dépose sur le front d'une jeune fille, la joue d'une maman, la main d'une jolie femme, le cou d'un enfant, les lèvres d'une maîtresse."
+    ]
+  },
+  {
+    "key": "ballons",
+    "term": "BALLONS",
+    "definitions": ["Avec les ballons, on finira par aller dans la lune.", "On n'est pas près de les diriger."]
+  },
+  { "key": "bandits", "term": "BANDITS", "definitions": ["Toujours féroces."] },
+  {
+    "key": "banquet",
+    "term": "BANQUET",
+    "definitions": [
+      "La plus franche cordialité ne cesse d'y régner.",
+      "On en emporte le meilleur souvenir, et on ne se sépare jamais sans s'être donné rendez-vous pour l'année prochaine.",
+      "Un farceur doit dire: «Au banquet de la vie, infortuné convive...» [song]"
+    ]
+  },
+  { "key": "banquiers", "term": "BANQUIERS", "definitions": ["Tous riches.", "Arabes, loups cerviers. [Dore pic]"] },
+  {
+    "key": "baragouin",
+    "term": "BARAGOUIN",
+    "definitions": ["Manière de parler des étrangers.", "Toujours rire de l'étranger qui parle mal français."]
+  },
+  {
+    "key": "barbe",
+    "term": "BARBE",
+    "definitions": ["Signe de force.", "Trop de barbe fait tomber les cheveux.", "Utile pour protéger les cravates."]
+  },
+  {
+    "key": "barbier",
+    "term": "BARBIER",
+    "definitions": ["Aller chez le frater, chez Figaro.", "Le barbier de Louis XI.", "Autrefois saignait."]
+  },
+  {
+    "key": "bas-bleu",
+    "term": "BAS-BLEU",
+    "definitions": [
+      "Terme de mépris pour désigner toute femme qui s'intéresse aux choses intellectuelles.",
+      "Citer Molière à l'appui: «Quand la capacité de son esprit se hausse» etc."
+    ]
+  },
+  {
+    "key": "bases-de-la-societe",
+    "term": "BASES DE LA SOCIÉTÉ",
+    "definitions": [
+      "Sont (Id est) la propriété, la famille, la religion, le respect des autorités.",
+      "En parler avec colère si on les attaque."
+    ]
+  },
+  { "key": "basilique", "term": "BASILIQUE", "definitions": ["Synonyme pompeux d'église.", "Est toujours imposante."] },
+  { "key": "basques", "term": "BASQUES", "definitions": ["Le peuple qui court le mieux."] },
+  {
+    "key": "bataiile",
+    "term": "BATAIILE",
+    "definitions": ["Toujours sanglante.", "Il y a toujours deux vainqueurs, le battant et le battu."]
+  },
+  { "key": "baton", "term": "BÂTON", "definitions": ["Plus redoutable que l'épée."] },
+  { "key": "baudruche", "term": "BAUDRUCHE", "definitions": ["Ne sert pas qu'à faire des ballons."] },
+  {
+    "key": "bayaderes",
+    "term": "BAYADÈRES",
+    "definitions": [
+      "Ce mot entraîne l'imagination fort loin.",
+      "Toutes les femmes de l'Orient sont des bayadères. (Voy. Odalisques)"
+    ]
+  },
+  {
+    "key": "beethoven",
+    "term": "BEETHOVEN",
+    "definitions": ["Ne prononcez pas Bitovan.", "Se pâmer quand même lorsqu'on exécute une de se œuvres."]
+  },
+  {
+    "key": "bergers",
+    "term": "BERGERS",
+    "definitions": ["Tous sorciers.", "Ont la spécialité de causer avec la Sainte Vierge."]
+  },
+  {
+    "key": "betes",
+    "term": "BÊTES",
+    "definitions": ["Ah! si les bêtes pouvaient parler!", "Il y en a qui sont plus intelligentes que des hommes."]
+  },
+  { "key": "bible", "term": "BIBLE", "definitions": ["Le plus ancien livre du monde."] },
+  {
+    "key": "bibliotheque",
+    "term": "BIBLIOTHÈQUE",
+    "definitions": ["Toujours en avoir une chez soi, principalement quand on habite la campagne."]
+  },
+  {
+    "key": "bien-ecrit",
+    "term": "BIEN ÉCRIT",
+    "definitions": ["Mot de portiers, pour désigner les romans-feuilletons qui les amusent."]
+  },
+  { "key": "biere", "term": "BIÈRE", "definitions": ["Il ne faut pas en boire, ça enrhume."] },
+  { "key": "billard", "term": "BILLARD", "definitions": ["Noble jeu.", "Indispensable à la campagne."] },
+  { "key": "blondes", "term": "BLONDES", "definitions": ["Plus chaudes que les brunes. (Voy. Brunes.)"] },
+  {
+    "key": "bois",
+    "term": "BOIS",
+    "definitions": [
+      "Les bois font rêver.",
+      "Sont propres à composer des vers.",
+      "À l'automne, quand on se promène, on doit dire: «De la dépouille de nos bois, etc...» [Millevoye]"
+    ]
+  },
+  { "key": "bonnes", "term": "BONNES", "definitions": ["Toutes mauvaises. Il n'y a plus de domestiques!"] },
+  {
+    "key": "bonnet-grec",
+    "term": "BONNET GREC",
+    "definitions": ["Indispensable à l'homme de cabinet.", "Donne de la majesté au visage."]
+  },
+  {
+    "key": "bossus",
+    "term": "BOSSUS",
+    "definitions": ["Ont beaucoup d'esprit.", "Sont très recherchés des femmes lascives."]
+  },
+  {
+    "key": "botte",
+    "term": "BOTTE",
+    "definitions": [
+      "Par les grandes chaleurs, ne jamais oublier les allusions sur les bottes de gendarmes ou les souliers des facteurs (n'est permis qu'à la campagne, au grand air).",
+      "On n'est bien chaussé qu'avec des bottes."
+    ]
+  },
+  { "key": "bouchers", "term": "BOUCHERS", "definitions": ["Sont terribles en temps de révolution."] },
+  {
+    "key": "bouddhisme",
+    "term": "BOUDDHISME",
+    "definitions": ["«Fausse religion de l'Inde» (définition du Dictionnaire Bouillet, 1re édition)."]
+  },
+  {
+    "key": "boudin",
+    "term": "BOUDIN",
+    "definitions": ["Signe de gaieté dans les maisons.", "Indispensable la nuit de Noël."]
+  },
+  {
+    "key": "bouilli",
+    "term": "BOUILLI (LE)",
+    "definitions": ["C'est sain.", "Inséparable du mot soupe: la soupe et le bouilli."]
+  },
+  { "key": "boulet", "term": "BOULET", "definitions": ["Le vent du boulet rend aveugle (asphyxie)."] },
+  { "key": "bourreau", "term": "BOURREAU", "definitions": ["Toujours de père en fils."] },
+  { "key": "bourse", "term": "BOURSE (LA)", "definitions": ["Thermomètre de l'opinion publique."] },
+  { "key": "boursiers", "term": "BOURSIERS", "definitions": ["Tous voleurs."] },
+  {
+    "key": "boutons",
+    "term": "BOUTONS",
+    "definitions": ["Au visage ou ailleurs, signe de santé et de force du sang.", "Ne point les faire passer."]
+  },
+  {
+    "key": "braconniers",
+    "term": "BRACONNIERS",
+    "definitions": [
+      "Tous forçats libérés.",
+      "Auteurs de tous les crimes commis dans les campagnes.",
+      "Doivent exciter une colère frénétique: «Pas de pitié, monsieur, pas de pitié!»"
+    ]
+  },
+  { "key": "bras", "term": "BRAS", "definitions": ["Pour gouverner la France, il faut un bras de fer."] },
+  { "key": "bretons", "term": "BRETONS", "definitions": ["Tous braves gens, mais entêtés."] },
+  {
+    "key": "broche",
+    "term": "BROCHE",
+    "definitions": ["Doit toujours encadrer une mèche de cheveux ou une photographie."]
+  },
+  { "key": "brunes", "term": "BRUNES", "definitions": ["Sont plus chaudes que les blones (Voy. Blondes)"] },
+  { "key": "budget", "term": "BUDGET", "definitions": ["Jamais en équilibre."] },
+  { "key": "buffon", "term": "BUFFON", "definitions": ["Mettait des manchettes pour écrire."] },
+  { "key": "cachet", "term": "CACHET", "definitions": ["Toujours suivi de «tout particulier»."] },
+  {
+    "key": "cachot",
+    "term": "CACHOT",
+    "definitions": [
+      "Toujours affreux.",
+      "La paille y est toujours humide.",
+      "On n'en a pas encore rencontré de délicieux."
+    ]
+  },
+  {
+    "key": "cadeau",
+    "term": "CADEAU",
+    "definitions": [
+      "Ce n'est pas la valeur qui en fait le prix, ou bien ce n'est pas le prix qui en fait la valeur.",
+      "Le cadeau n'est rien, c'est l'intention qui compte."
+    ]
+  },
+  {
+    "key": "cafe",
+    "term": "CAFÉ",
+    "definitions": [
+      "Donne de l'esprit.",
+      "N'est bon qu'en venant du Havre.",
+      "Dans un grand dîner, doit se prendre debout.",
+      "L'avaler sans sucre, très chic, donne l'air d'avoir vécu en Orient."
+    ]
+  },
+  {
+    "key": "calvitie",
+    "term": "CALVITIE",
+    "definitions": ["Toujours précoce.", "Est causée par des excès de jeunesse ou la conception de grande pensée."]
+  },
+  { "key": "camarilla", "term": "CAMARILLA", "definitions": ["S'indigner quand on prononce ce mot."] },
+  {
+    "key": "campagne",
+    "term": "CAMPAGNE",
+    "definitions": [
+      "Les gens de la campagne meilleurs que ceux des villes; envier leur sort.",
+      "À la campagne tout est permis: habits bas, farces, etc."
+    ]
+  },
+  { "key": "canards", "term": "CANARDS", "definitions": ["Viennent tous de Rouen."] },
+  {
+    "key": "candeur",
+    "term": "CANDEUR",
+    "definitions": ["Toujours adorable.", "On en est rempli ou on n'en a pas du tout."]
+  },
+  { "key": "canonade", "term": "CANONADE", "definitions": ["Change le temps."] },
+  { "key": "carabins", "term": "CARABINS", "definitions": ["Dorment près dse cadavres.", "Il y en a qui en mangent."] },
+  { "key": "careme", "term": "CARÈME", "definitions": ["Au fond n'est qu'une mesure hygiénique."] },
+  {
+    "key": "cataplasme",
+    "term": "CATAPLASME",
+    "definitions": ["Doit toujours être mis en attendant l'arrivée du médecin."]
+  },
+  { "key": "catholicisme", "term": "CATHOLICISME", "definitions": ["À eu une influence très favorable sur les arts."] },
+  { "key": "cauchemar", "term": "CAUCHEMAR", "definitions": ["Vient de l'estomac."] },
+  { "key": "cavalerie", "term": "CAVALERIE", "definitions": ["Plus noble que l'infanterie."] },
+  {
+    "key": "cavernes",
+    "term": "CAVERNES",
+    "definitions": ["Habitation ordinaire des voleurs.", "Sont toujours remplies de serpents."]
+  },
+  { "key": "cedre", "term": "CÈDRE", "definitions": ["Celui du Jardin des Plantes a été rapporté dans un chapeau."] },
+  {
+    "key": "celebrites",
+    "term": "CÉLÉBRITÉS (LES)",
+    "definitions": ["S'inquiéter du moindre détail de leur vie privée, afin de pouvoir les dénigrer."]
+  },
+  {
+    "key": "celibataires",
+    "term": "CÉLIBATAIRES",
+    "definitions": ["Tous égoïstes et débauchés.", "On devrait les imposer.", "Se préparent une triste vieillesse."]
+  },
+  { "key": "censure", "term": "CENSURE", "definitions": ["Utile, on a beau dire."] },
+  { "key": "cercle", "term": "CERCLE", "definitions": ["On doit toujours faire partie d'un cercle."] },
+  {
+    "key": "certificat",
+    "term": "CERTIFICAT",
+    "definitions": ["Garantie pour les familles et pour les parents.", "Est toujours favorable."]
+  },
+  {
+    "key": "cerumen",
+    "term": "CERUMEN",
+    "definitions": [
+      "«Cire humaine».",
+      "Se garder de l'ôter parce qu'elle empêche les insectes d'enter dans les oreilles."
+    ]
+  },
+  { "key": "chacal", "term": "CHACAL", "definitions": ["Singulier de shakos (vieux, mais fait toujours rire)."] },
+  {
+    "key": "chaleur",
+    "term": "CHALEUR",
+    "definitions": ["Toujours insupportable.", "Ne pas boire quand il faut chaud."]
+  },
+  {
+    "key": "chambre-a-coucher",
+    "term": "CHAMBRE À COUCHER",
+    "definitions": ["Dans un vieux château; Henri IV y a toujours passé une nuit."]
+  },
+  {
+    "key": "chameau",
+    "term": "CHAMEAU",
+    "definitions": [
+      "À deux bosses et le dromadaire une seule. Ou bien: le chameau a une bosse et le dromadaire deux: (on ne sait pas au juste; on s'y embrouille)."
+    ]
+  },
+  {
+    "key": "champagne",
+    "term": "CHAMPAGNE",
+    "definitions": [
+      "Caractérise le dîner de cérémonie.",
+      "Faire semblant de le détester, en disant que «ce n'est pas un vin».",
+      "Provoque l'enthousiasme chez les petites gens.",
+      "La Russie en consomme plus que la France.",
+      "C'est par lui que les idées françaises se sont répandues en Europe.",
+      "Sous la Régence, on ne faisait pas autre chose que d'en boire.",
+      "(Mais on ne le boit pas, on le «sable».)"
+    ]
+  },
+  {
+    "key": "champignons",
+    "term": "CHAMPIGNONS",
+    "definitions": ["Ne doivent être achetés qu'au marché (Ne manger que ceux qui viennent du marché)."]
+  },
+  {
+    "key": "chanteur",
+    "term": "CHANTEUR",
+    "definitions": [
+      "Avalent tous les matins un oeuf frais pour s'éclaircir la voix.",
+      "Le ténor a toujours une voix charmante et tendre, le baryton un organe sympathique et bien timbré, et la basse une émission puissante."
+    ]
+  },
+  { "key": "chapeau", "term": "CHAPEAU", "definitions": ["Protester contre la forme des chapeaux."] },
+  {
+    "key": "charcutier",
+    "term": "CHARCUTIER",
+    "definitions": ["Anecdote des pâtés faits avec de la chair humaine.", "Toutes les charcuitières sont jolies."]
+  },
+  {
+    "key": "chartreux",
+    "term": "CHARTREUX",
+    "definitions": [
+      "Passent leur temps à faire de la chartreuse, à rêver (creuser) leur tombe et à dire: «Frère, il faut mourir.»"
+    ]
+  },
+  {
+    "key": "chasse",
+    "term": "CHASSE",
+    "definitions": [
+      "Excellent exercice que l'on doit feindre d'adorer.",
+      "Fait partie de la pompte des souverains.",
+      "Sujet de délire pour la magistrature."
+    ]
+  },
+  {
+    "key": "chat",
+    "term": "CHAT",
+    "definitions": [
+      "Les chats sont traîtres.",
+      "Les appeler tigres de salon.",
+      "Leur couper la queue pour empêcher le vertigo."
+    ]
+  },
+  { "key": "chataigne", "term": "CHÂTAIGNE", "definitions": ["Femelle du marron."] },
+  { "key": "chateau-fort", "term": "CHÂTEAU FORT", "definitions": ["A toujours subi un siège sous Philippe-Auguste."] },
+  {
+    "key": "chateaubriand",
+    "term": "CHATEAUBRIAND",
+    "definitions": ["Connu surtout par le beefsteak qui porte son nom."]
+  },
+  {
+    "key": "cheminee",
+    "term": "CHEMINÉE",
+    "definitions": ["Fume toujours.", "Sujet de discussion à propos du chauffage."]
+  },
+  {
+    "key": "chemins-de-fer",
+    "term": "CHEMINS DE FER",
+    "definitions": [
+      "Si Napoléon les avait eus à sa disposition, il aurait été invincible.",
+      "S'extasier sur l'invention et dire: «Moi, monsieur, qui vous parle, j'étais ce matin à X...; je suis parti par le train de X...; là-bas, j'ai fait mes affaires, etc., et à x heures j'étais revenu!»"
+    ]
+  },
+  {
+    "key": "cheval",
+    "term": "CHEVAL",
+    "definitions": [
+      "S'il connaissait sa force, ne se laisserait pas conduire.",
+      "Viande de cheval: beau sujet de brochure pour un homme qui désire se poser en personnage sérieux.",
+      "Cheval de course: le mépriser. À quoi sert-il?"
+    ]
+  },
+  {
+    "key": "chien",
+    "term": "CHIEN",
+    "definitions": [
+      "Spécialement crée pour sauver la vie à son maître.",
+      "Le chien est (l'idéal de) l'ami de l'homme (parce qu'il est son esclave dévoué)."
+    ]
+  },
+  { "key": "chirurgiens", "term": "CHIRURGIENS", "definitions": ["Ont le coeur dur: les appeler bouchers."] },
+  {
+    "key": "cholera",
+    "term": "CHOLÉRA",
+    "definitions": ["Le melon donne le choléra.", "On s'en guérit en prenant beaucoup de thé avec du rhum."]
+  },
+  { "key": "christianisme", "term": "CHRISTIANISME", "definitions": ["A affranchi les esclaves."] },
+  { "key": "cidre", "term": "CIDRE", "definitions": ["Gâte les dents."] },
+  {
+    "key": "cigares",
+    "term": "CIGARES",
+    "definitions": ["Ceux de la Régie, «tous infects!»", "Les seuls bons viennent par contre-bande."]
+  },
+  { "key": "cirage", "term": "CIRAGE", "definitions": ["N'est bon que si on le fait soi-même."] },
+  { "key": "clair-obscur", "term": "CLAIR-OBSCUR", "definitions": ["On ne sait pas ce que c'est."] },
+  {
+    "key": "clarinette",
+    "term": "CLARINETTE",
+    "definitions": ["En jouer rend aveugle. Ex.: Tous les aveugles jouent de la clarinette."]
+  },
+  { "key": "classiques", "term": "CLASSIQUES (LES)", "definitions": ["On est censé les connaître."] },
+  { "key": "clocher", "term": "CLOCHER", "definitions": ["De village: fait battre le coeur."] },
+  { "key": "clou", "term": "CLOU", "definitions": ["Voy. Boutons."] },
+  { "key": "clown", "term": "CLOWN", "definitions": ["A été disloqué dès l'enfance."] },
+  {
+    "key": "club",
+    "term": "CLUB",
+    "definitions": [
+      "Sujet d'exaspération pour les conservateurs.",
+      "Embarras et discussion sur la prononciation du mot."
+    ]
+  },
+  {
+    "key": "cochon",
+    "term": "COCHON",
+    "definitions": [
+      "L'intérieur de son corps étant «tout pareil à celui d'un homme», on devrait s'en servir dans les hôpitaux pour apprendre l'anatomie."
+    ]
+  },
+  { "key": "cocu", "term": "COCU", "definitions": ["Toute femme doit faire son mari cocu."] },
+  {
+    "key": "coffres-forts",
+    "term": "COFFRES-FORTS",
+    "definitions": ["Leurs complications sont très faciles à déjouer."]
+  },
+  {
+    "key": "cognac",
+    "term": "COGNAC",
+    "definitions": [
+      "Très funeste.",
+      "Excellent dans plusieurs maladies.",
+      "Un bon verre de cognac ne fait jamais de mal.",
+      "Pris à jeun tue le ver de l'estomac."
+    ]
+  },
+  { "key": "coit", "term": "COÏT", "definitions": ["Mots à éviter. Dire: «Ils avaient des rapports...»"] },
+  {
+    "key": "colere",
+    "term": "COLÈRE",
+    "definitions": ["Fouette le sang; hygiénique de s'y mettre de temps en temps."]
+  },
+  { "key": "college", "term": "COLLÈGE", "definitions": ["Plus noble qu'une pension."] },
+  { "key": "colonies", "term": "COLONIES (NOS)", "definitions": ["S'attrister quand on en parle."] },
+  {
+    "key": "comedie",
+    "term": "COMÉDIE",
+    "definitions": [
+      "En vers, ne convient plus à notre époque.",
+      "On doit cependant respecter la haute comédie.",
+      "Castigat ridendo mores."
+    ]
+  },
+  { "key": "cometes", "term": "COMÈTES", "definitions": ["Rire des gens qui en avaient peur."] },
+  {
+    "key": "commerce",
+    "term": "COMMERCE",
+    "definitions": ["Discuter pour savoir lequel est le plus noble, du commerce ou de l'industrie."]
+  },
+  { "key": "communion", "term": "COMMUNION", "definitions": ["La première communion = le plus beau jour de la vie."] },
+  { "key": "compas", "term": "COMPAS", "definitions": ["On voit juste quand on l'a dans l'oeil."] },
+  { "key": "concert", "term": "CONCERT", "definitions": ["Passe-temps comme il faut."] },
+  { "key": "concessions", "term": "CONCESSIONS", "definitions": ["N'en faire jamais. Elles ont perdu Louis XVI."] },
+  {
+    "key": "conciliation",
+    "term": "CONCILIATION",
+    "definitions": ["Les prêcher toujours, même quand les contraires sont absolus."]
+  },
+  {
+    "key": "concupiscence",
+    "term": "CONCUPISCENCE",
+    "definitions": ["Mot de curé pour exprimer les désirs charnels."]
+  },
+  { "key": "concurrence", "term": "CONCURRENCE", "definitions": ["L'âme du commerce."] },
+  { "key": "confiseurs", "term": "CONFISEURS", "definitions": ["Tous les Rouennais sont confiseurs."] },
+  { "key": "confortable", "term": "CONFORTABLE", "definitions": ["Précieuse découverte moderne."] },
+  { "key": "congreganiste", "term": "CONGREGANISTE", "definitions": ["Chevalier d'Onan."] },
+  {
+    "key": "conjure",
+    "term": "CONJURE",
+    "definitions": ["Les conjurés ont toujours la manie de s'inscrire sur une liste."]
+  },
+  {
+    "key": "conservateur",
+    "term": "CONSERVATEUR",
+    "definitions": [
+      "Homme politique à gros ventre.",
+      "«Conservateur borné!» - «Oui, monsieur, les bornes servent de garde-fou.»"
+    ]
+  },
+  {
+    "key": "conservatoire",
+    "term": "CONSERVATOIRE",
+    "definitions": ["Il est indispensable d'être abonné au Conservatoire."]
+  },
+  {
+    "key": "constipation",
+    "term": "CONSTIPATION",
+    "definitions": ["Tous les gens de lettres sont constipés.", "Influe sur les convictions politiques."]
+  },
+  { "key": "contralto", "term": "CONTRALTO", "definitions": ["On ne sait pas ce que c'est."] },
+  {
+    "key": "conversation",
+    "term": "CONVERSATION",
+    "definitions": ["La politique et la religion doivent en être exclues."]
+  },
+  { "key": "copahu", "term": "COPAHU", "definitions": ["Feindre d'en ignorer l'usage."] },
+  { "key": "copulation", "term": "COPULATION", "definitions": ["Mots à éviter. Dire: «Ils avaient des rapports...»"] },
+  {
+    "key": "coq",
+    "term": "COQ",
+    "definitions": ["Un homme maigre doit toujours dire qu'un bon coq n'est jamais gras."]
+  },
+  {
+    "key": "cor-aux-pieds",
+    "term": "COR (AUX PIEDS)",
+    "definitions": [
+      "Indique le changement de temps mieux qu'un baromètre.",
+      "Très dangereux quand il est mal coupé; citer des exemples d'accidents terribles."
+    ]
+  },
+  {
+    "key": "cor-de-chasse",
+    "term": "COR (DE CHASSE)",
+    "definitions": ["Dans les bois fait bon effet (et le soir sur l'eau)."]
+  },
+  {
+    "key": "corde",
+    "term": "CORDE",
+    "definitions": ["On ne connaît pas la force d'une corde.", "Est plus solide que le fer."]
+  },
+  { "key": "cordonnier", "term": "CORDONNIER", "definitions": ["Ne sutor ultra crepidam."] },
+  {
+    "key": "corps",
+    "term": "CORPS",
+    "definitions": ["Si nous savions comment notre corps est fait, nous n'oserions pas faire un mouvement."]
+  },
+  { "key": "corset", "term": "CORSET", "definitions": ["Empêche d'avoir des enfants."] },
+  { "key": "cosaques", "term": "COSAQUES", "definitions": ["Mangent de la chandelle."] },
+  {
+    "key": "coton",
+    "term": "COTON",
+    "definitions": ["Est surtout utile pour les oreilles.", "Une des bases de la société dans la Seine-Inférieure."]
+  },
+  {
+    "key": "courtisane",
+    "term": "COURTISANE",
+    "definitions": [
+      "Est un mal nécessaire.",
+      "Sauvegarde de nos filles et de nos soeurs (tant qu'il y aura des célibataires).",
+      "(Ou bien:) Devraient être chassées impitoyablement.",
+      "On ne peut plus sortir avec sa femme à cause de leur présence sur le boulevard.",
+      "Sont toujours des filles du peuple débauchées par des bourgeois riches."
+    ]
+  },
+  { "key": "cousin", "term": "COUSIN", "definitions": ["Conseiller aux maris de se méfier du petit cousin."] },
+  {
+    "key": "couteau",
+    "term": "COUTEAU",
+    "definitions": [
+      "Est catalan quand la lame est longue.",
+      "S'appelle poignard quand il a servi à commettre un crime."
+    ]
+  },
+  {
+    "key": "crapaud",
+    "term": "CRAPAUD",
+    "definitions": ["Mâle de la grenouille.", "Possède un venin fort dangereux.", "Habite l'intérieur des pierres."]
+  },
+  { "key": "creole", "term": "CRÉOLE", "definitions": ["Vit dans un hamac."] },
+  { "key": "criminel", "term": "CRIMINEL", "definitions": ["Toujours odieux."] },
+  {
+    "key": "critiques",
+    "term": "CRITIQUES",
+    "definitions": [
+      "Toujours éminent.",
+      "Est censé, tout connaître, tout savoir, avoir tout lu, tout vu.",
+      "Quand il vous déplaît, l'appeler un Aristarque (ou eunuque)."
+    ]
+  },
+  { "key": "crocodile", "term": "CROCODILE", "definitions": ["Imite le cri des enfants pour attirer l'homme."] },
+  {
+    "key": "croisades",
+    "term": "CROISADES",
+    "definitions": ["Ont été bienfaisantes (utiles seulement) pour le commerce de Venise."]
+  },
+  { "key": "crucifix", "term": "CRUCIFIX", "definitions": ["Fait bien dans une alcôve et à la guillotine."] },
+  { "key": "cuir", "term": "CUIR", "definitions": ["Tous les cuirs viennent de Russie."] },
+  {
+    "key": "cuisine",
+    "term": "CUISINE",
+    "definitions": [
+      "De restaurant: toujours échauffante.",
+      "Bourgeoise: toujours saine.",
+      "Du Midi, trop épicée ou toute à l'huile."
+    ]
+  },
+  {
+    "key": "cujas",
+    "term": "CUJAS",
+    "definitions": [
+      "Inséparable de Bartole; on ne sait pas ce qu'ils ont écrit, n'importe.",
+      "Dire à tout homme étudiant le droit: «Vous êtes enfermé dans Cujas et Bartholde.»"
+    ]
+  },
+  {
+    "key": "curacao",
+    "term": "CURAÇAO",
+    "definitions": ["Le meilleur est de Hollande parce qu'il se fabrique à Curaçao, une des Antilles."]
+  },
+  {
+    "key": "cygne",
+    "term": "CYGNE",
+    "definitions": [
+      "Chante avant de mourir.",
+      "Avec son aile peut casser la cuisse d'un homme.",
+      "Le cygne de Cambrai n'était pas un oiseau, mais un homme (évêque) nommé Fénelon.",
+      "Le cygne de Mantoue, c'est Virgile.",
+      "Le cygne de Pesaro, c'est Rossini."
+    ]
+  },
+  { "key": "cypres", "term": "CYPRÈS", "definitions": ["Ne pousse que dans les cimetières."] },
+  { "key": "czar", "term": "CZAR", "definitions": ["Prononcer tzar et de temps en temps autocrate."] },
+  { "key": "daguerreotype", "term": "DAGUERRÉOTYPE", "definitions": ["Remplacera la peinture. (Voy. photographie)"] },
+  {
+    "key": "damas",
+    "term": "DAMAS",
+    "definitions": ["Seul endroit où l'on sache faire les sabres.", "Toute bonne lame est de Damas."]
+  },
+  {
+    "key": "dame",
+    "term": "DAME",
+    "definitions": ["Tout pour les dames.", "Honneur aux dames.", "Ne jamais dire: «Ces dames sont aux salons.»"]
+  },
+  { "key": "danse", "term": "DANSE", "definitions": ["On ne danse plus, on marche."] },
+  { "key": "danton", "term": "DANTON", "definitions": ["«De l'audace, encore de l'audace, toujours de l'audace!»"] },
+  { "key": "dartre", "term": "DARTRE", "definitions": ["signe de santé (Voy. boutons)."] },
+  { "key": "darwin", "term": "DARWIN", "definitions": ["Celui qui dit que nous descendons du singe."] },
+  { "key": "dauphin", "term": "DAUPHIN", "definitions": ["Porte les enfants sur son dos."] },
+  { "key": "debauche", "term": "DÉBAUCHE", "definitions": ["Cause de toutes les maladies des célibataires."] },
+  { "key": "dechainer", "term": "DECHAINER", "definitions": ["On déchaîne ses chiens et les mauvaises passions."] },
+  {
+    "key": "decor-de-theatre",
+    "term": "DÉCOR DE THÉATRE",
+    "definitions": [
+      "N'est pas de la peinture: il suffit de jeter en vrac sur la toile un seau de couleurs, puis on l'étend avec un balai; et l'éloignement avec la lumière fait l'illusion."
+    ]
+  },
+  {
+    "key": "decoration-de-la-legion-dhonneur",
+    "term": "DÉCORATION DE LA LÉGION D'HONNEUR",
+    "definitions": ["La blaguer mais la convoiter.", "Quand on l'obtient, toujours dire qu'on ne l'a pas demandée."]
+  },
+  {
+    "key": "decorum",
+    "term": "DÉCORUM",
+    "definitions": ["Donne du prestige.", "Frappe l'imagination des masses.", "«Il en faut! Il en faut!»"]
+  },
+  {
+    "key": "defaite",
+    "term": "DÉFAITE",
+    "definitions": ["S'essuie, et est tellement complète qu'il n'en reste personne pour en porter la nouvelle."]
+  },
+  {
+    "key": "defile",
+    "term": "DÉFILÉ",
+    "definitions": [
+      "Toujours citer les Thermopyles.",
+      "Le défilé des Vosges sont les Thermopyles de la France (s'est beaucoup dit en 1870)."
+    ]
+  },
+  {
+    "key": "deicide",
+    "term": "DÉICIDE",
+    "definitions": ["S'indigner contre, bien que le crime ne soit pas fréquent."]
+  },
+  {
+    "key": "dejeuner-de-garcons",
+    "term": "DÉJEUNER DE GARÇONS",
+    "definitions": ["Exige des huîtres, du vin blanc et des gaudrioles."]
+  },
+  { "key": "demeloir", "term": "DÉMÊLOIR", "definitions": ["Fait tomber les cheveux."] },
+  {
+    "key": "demosthene",
+    "term": "DÉMOSTHENE",
+    "definitions": ["Ne prononçait pas de discours sans avoir un galet dans la bouche."]
+  },
+  {
+    "key": "dent-oeillere",
+    "term": "DENT OEILLÈRE",
+    "definitions": ["Dangereux de l'arracher parce qu'elle correspond à l'oeil."]
+  },
+  {
+    "key": "dentistes",
+    "term": "DENTISTES",
+    "definitions": [
+      "Tous menteurs.",
+      "Se servent du baume d'acier.",
+      "On les croit aussi pédicures.",
+      "Se disent chirurgiens comme les opticiens se disent ingénieurs."
+    ]
+  },
+  {
+    "key": "dents",
+    "term": "DENTS",
+    "definitions": [
+      "Sont gâtées par le cidre, le tabac, les dragées, la glace, dormir la bouche ouverte (et boire de suite après le potage).",
+      "L'arrachement d'une dent «ne fait pas jouir»."
+    ]
+  },
+  { "key": "depuratif", "term": "DÉPURATIF", "definitions": ["Se prend en cachette."] },
+  {
+    "key": "depute",
+    "term": "DÉPUTÉ",
+    "definitions": [
+      "L'être, comble de la gloire.",
+      "Tonner contre la Chambre des députés.",
+      "Trop de bavards à la Chambre.",
+      "Ne font rien."
+    ]
+  },
+  {
+    "key": "derate",
+    "term": "DÉRATÉ",
+    "definitions": [
+      "Courir comme un dératé.",
+      "Inutile de savoir que l'extirpation de la rate n'a jamais été pratiquée sur l'homme."
+    ]
+  },
+  { "key": "derby", "term": "DERBY", "definitions": ["Mot de courses. Très chic."] },
+  { "key": "descartes", "term": "DESCARTES", "definitions": ["«Cogito, ergo sum.»"] },
+  { "key": "desert", "term": "DÉSERT", "definitions": ["Produit des dattes."] },
+  {
+    "key": "dessert",
+    "term": "DESSERT",
+    "definitions": [
+      "Regretter qu'on n'y chante plus.",
+      "Les gens vertueux le méprisent: «Non! non! pas de pâtisseries! Jamais de dessert!»"
+    ]
+  },
+  {
+    "key": "dessin",
+    "term": "DESSIN (L'ART DU)",
+    "definitions": [
+      "«Se compose de trois choses: la ligne, le grain et le grainé fin; de plus, le trait de force. Mais le trait de force, il n'y a que le maître seul qui le donne.» (Christophe)"
+    ]
+  },
+  {
+    "key": "devoirs",
+    "term": "DEVOIRS",
+    "definitions": [
+      "Les exiger de la part des autres, s'en affranchir.",
+      "Les autres en ont envers nous, mais on n'en a pas envers eux."
+    ]
+  },
+  {
+    "key": "devouement",
+    "term": "DÉVOUEMENT",
+    "definitions": [
+      "Se plaindre de ce que les autres en manquent.",
+      "«Nous sommes bien inférieurs au chien, sous ce rapport!»"
+    ]
+  },
+  {
+    "key": "diamant",
+    "term": "DIAMANT",
+    "definitions": [
+      "On finira par en faire!",
+      "Et dire que ce n'est que du charbon!",
+      "Si nous en trouvions un dans son état naturel, nous ne le ramasserions pas!"
+    ]
+  },
+  { "key": "diane", "term": "DIANE", "definitions": ["Déesse de la chasse-teté."] },
+  { "key": "dictionnaire", "term": "DICTIONNAIRE", "definitions": ["En dire: «N'est fait que pour les ignorants.»"] },
+  { "key": "dictionnaire-des-rimes", "term": "DICTIONNAIRE DES RIMES", "definitions": ["S'en servir? Honteux!"] },
+  { "key": "diderot", "term": "DIDEROT", "definitions": ["Toujours suivi de d'Alembert."] },
+  {
+    "key": "dieu",
+    "term": "DIEU",
+    "definitions": ["Voltaire lui-même l'a dit: «Si Dieu n'existait pas, il faudrait l'inventer.»"]
+  },
+  { "key": "dilettante", "term": "DILETTANTE", "definitions": ["Homme riche, abonné à l'Opéra."] },
+  { "key": "diligences", "term": "DILIGENCES", "definitions": ["Regretter le temps des diligences."] },
+  {
+    "key": "diner",
+    "term": "DÎNER",
+    "definitions": [
+      "Autrefois on dînait à midi (maintenant on dîne à des heures impossibles).",
+      "Le dîner de nos pères était notre déjeuner, et notre déjeuner était leur dîner.",
+      "Dîner si tard que ça ne s'appelle pas dîner, mais souper."
+    ]
+  },
+  { "key": "diogene", "term": "DIOGÈNE", "definitions": ["«Je cherche un homme.»", "«Retire-toi de mon soleil.»"] },
+  {
+    "key": "diplomatie",
+    "term": "DIPLOMATIE",
+    "definitions": [
+      "Belle carrière (mais hérissée de difficultés, pleine de mystère).",
+      "Ne convient qu'aux gens nobles.",
+      "Métier d'une vague signification, mais au-dessus du commerce.",
+      "Un diplomate est toujours fin et pénétrant."
+    ]
+  },
+  { "key": "diplomes", "term": "DIPLÔMES", "definitions": ["Signe de science.", "Ne prouve rien."] },
+  {
+    "key": "directoire",
+    "term": "DIRECTOIRE (LE)",
+    "definitions": [
+      "Les hontes du Directoire.",
+      "«Dans ce temps-là, l'honneur s'était réfugié aux armées.»",
+      "Les femmes à Paris se promenaient toutes nues."
+    ]
+  },
+  { "key": "dissection", "term": "DISSECTION", "definitions": ["Outrage à la majesté de la mort."] },
+  { "key": "diva", "term": "DIVA", "definitions": ["Toutes les cantatrices doivent être appelées Diva."] },
+  {
+    "key": "divorce",
+    "term": "DIVORCE",
+    "definitions": ["Si Napoléon n'avait pas divorcé, il serait encore sur le trône."]
+  },
+  {
+    "key": "dix",
+    "term": "DIX (LE CONSEIL DES)",
+    "definitions": [
+      "On ne sait pas ce que c'était, mais c'était formidable!",
+      "Délibéraient masqués.",
+      "En trembler encore."
+    ]
+  },
+  { "key": "djin", "term": "DJIN", "definitions": ["Nom d'une danse orientale."] },
+  {
+    "key": "docteur",
+    "term": "DOCTEUR",
+    "definitions": [
+      "Toujours précédé de 'bon', et, entre hommes, dans la conversation familière, de 'foutre': «Ah! foutre, docteur!»",
+      "Est un aigle quand il a votre confiance, n'est plus qu'un ’ne dès que vous êtes brouillés.",
+      "Tous matérialistes. «C'est qu'on ne trouve pas la foi au bout d'un scalpel.»"
+    ]
+  },
+  { "key": "doctrinaires", "term": "DOCTRINAIRES", "definitions": ["Les mépriser. Pourquoi? on n'en sait rien."] },
+  { "key": "document", "term": "DOCUMENT", "definitions": ["Toujours de la plus haute importance."] },
+  { "key": "doge", "term": "DOGE", "definitions": ["Épousait la mer.", "On n'en connaît qu'un: Marino Faliero."] },
+  { "key": "doigt", "term": "DOIGT", "definitions": ["Le doigt de Dieu se fourre partout."] },
+  {
+    "key": "dolmen",
+    "term": "DOLMEN",
+    "definitions": [
+      "A rapport aux anciens Français.",
+      "Pierre qui servait aux sacrifices des Druides.",
+      "On n'en sait pas plus (davantage).",
+      "Il n'y en a qu'en Bretagne."
+    ]
+  },
+  {
+    "key": "dome",
+    "term": "DÔME",
+    "definitions": [
+      "Tour de forme architecturale.",
+      "«Comment se tient-il?» (S'étonner de ce que cela puisse tenir seul.)",
+      "En citer deux: celui des Invalides et celui de Saint-Pierre-de-Rome."
+    ]
+  },
+  {
+    "key": "domicile",
+    "term": "DOMICILE",
+    "definitions": [
+      "Toujours inviolable. Cependant la Justice, la Police, y pénètrent quand elles veulent.",
+      "Je regagne mes pénates.",
+      "Je rentre dans mes lares."
+    ]
+  },
+  { "key": "dominos", "term": "DOMINOS", "definitions": ["On y joue d'autant mieux qu'on est gris."] },
+  { "key": "dompteurs", "term": "DOMPTEURS (DE BÊTES FÉROCES)", "definitions": ["Emploient des pratiques obscènes."] },
+  { "key": "donjon", "term": "DONJON", "definitions": ["Éveille des idées lugubres."] },
+  { "key": "dormir", "term": "DORMIR", "definitions": ["Trop dormir épaissit le sang."] },
+  {
+    "key": "dortoirs",
+    "term": "DORTOIRS",
+    "definitions": ["Toujours spacieux et bien aérés.", "Préférables aux chambres, pour la moralité des élèves."]
+  },
+  { "key": "dos", "term": "DOS", "definitions": ["Une tape dans le dos peut rendre poitrinaire."] },
+  { "key": "douane", "term": "DOUANE", "definitions": ["On doit se révolter contre, et la frauder. (Voy. Octroi)"] },
+  {
+    "key": "douleur",
+    "term": "DOULEUR",
+    "definitions": ["A toujours un résultat favorable.", "La véritable douleur est toujours contenue."]
+  },
+  { "key": "doute", "term": "DOUTE", "definitions": ["Pire que la négation."] },
+  { "key": "drap", "term": "DRAP", "definitions": ["Tous les draps viennent d'Elbeuf."] },
+  { "key": "drapeau", "term": "DRAPEAU (NATIONAL)", "definitions": ["Sa vue fait battre le coeur."] },
+  { "key": "droit", "term": "DROIT (LE)", "definitions": ["On ne sait pas ce que c'est."] },
+  { "key": "drole", "term": "DRÔLE", "definitions": ["Doit s'employer à tout propos: «C'est drôle.»"] },
+  {
+    "key": "duel",
+    "term": "DUEL",
+    "definitions": ["Tonner contre. N'est pas une preuve de courage.", "Prestige de l'homme qui a eu un duel."]
+  },
+  { "key": "dupe", "term": "DUPE", "definitions": ["Mieux vaut être fripon que dupe."] },
+  { "key": "dupuytren", "term": "DUPUYTREN", "definitions": ["Célèbre par sa pommade et son musée."] },
+  {
+    "key": "dur",
+    "term": "DUR",
+    "definitions": [
+      "Ajouter invariablement comme du fer.",
+      "Il y a bien dur comme la pierre, mas c'est moins énergique."
+    ]
+  },
+  {
+    "key": "eau",
+    "term": "EAU",
+    "definitions": [
+      "L'eau de Paris donne des coliques.",
+      "L'eau de mer soutient pour nager.",
+      "L'eau de Cologne sent bon."
+    ]
+  },
+  { "key": "ebeniste", "term": "ÉBÉNISTE", "definitions": ["Ouvrier qui travaille surtout l'acajou."] },
+  {
+    "key": "echafaud",
+    "term": "ÉCHAFAUD",
+    "definitions": ["S'arranger quand on y monte pour prononcer quelques mots éloquents avant de mourir."]
+  },
+  { "key": "echarpe", "term": "ÉCHARPE", "definitions": ["Poétique."] },
+  {
+    "key": "echecs",
+    "term": "ÉCHECS (JEU DES)",
+    "definitions": [
+      "Image de la tactique militaire.",
+      "Tous les grands capitaines y étaient forts.",
+      "Trop sérieux pour un jeu, trop futile pour une science."
+    ]
+  },
+  { "key": "echo", "term": "ÉCHO", "definitions": ["Citer ceux du Panthéon et du pont de Neuilly."] },
+  {
+    "key": "eclectisme",
+    "term": "ÉCLECTISME",
+    "definitions": ["Tonner contre, comme étant une philosophie immorale."]
+  },
+  {
+    "key": "ecoles",
+    "term": "ÉCOLES",
+    "definitions": [
+      "Polytechnique, rêve de toutes les mères (vieux).",
+      "Terreur du bourgeois dans les émeutes quand il apprend que l'École Polytechnique sympathise avec les ouvriers (vieux).",
+      "Dire simplement «l'École» fait accroire qu'on y a été.",
+      "à Saint-Cyr: jeunes gens nobles.",
+      "à l'École de Médecine: tous exaltés.",
+      "à l'École de droit: jeunes gens de bonne famille."
+    ]
+  },
+  {
+    "key": "economie",
+    "term": "ÉCONOMIE",
+    "definitions": [
+      "Toujours précédée de «Ordre», mène à la fortune.",
+      "Citer l'anecdote de Laffite ramassant une épingle dans la cour du banquier Perregaux."
+    ]
+  },
+  { "key": "economie-politique", "term": "ÉCONOMIE POLITIQUE", "definitions": ["Science sans entrailles."] },
+  {
+    "key": "ecrit",
+    "term": "ÉCRIT",
+    "definitions": ["Mot de portiers, pour désigner les romans-feuilletons qui les amusent."]
+  },
+  {
+    "key": "ecriture",
+    "term": "ÉCRITURE",
+    "definitions": [
+      "Une belle écriture mène à tout.",
+      "Indéchiffrable: signe de science; exemple: les ordonnances des médecins."
+    ]
+  },
+  {
+    "key": "egoisme",
+    "term": "ÉGOÏSME",
+    "definitions": ["Se plaindre de celui des autres et ne pas s'apercevoir du sien."]
+  },
+  {
+    "key": "elephants",
+    "term": "ÉLÉPHANTS",
+    "definitions": ["Se distinguent par leur mémoire, et adorent le soleil."]
+  },
+  { "key": "email", "term": "ÉMAIL", "definitions": ["Le secret en est perdu."] },
+  { "key": "embonpoint", "term": "EMBONPOINT", "definitions": ["Signe de richesse et de fainéantise."] },
+  {
+    "key": "emigres",
+    "term": "ÉMIGRÉS",
+    "definitions": ["Gagnaient leur vie à donner des leçons de guitare et à faire la salade."]
+  },
+  { "key": "emir", "term": "ÉMIR", "definitions": ["Ne se dit qu'en parlant d'Abd-el-Kader."] },
+  {
+    "key": "enceinte",
+    "term": "ENCEINTE",
+    "definitions": [
+      "Le faire entrer dans les discours officiels: «Messieurs, dans cette enceinte...»",
+      "Fait bien dans un discours."
+    ]
+  },
+  { "key": "encrier", "term": "ENCRIER", "definitions": ["Se donne en cadeau à un médecin."] },
+  {
+    "key": "encyclopedie",
+    "term": "ENCYCLOPÉDIE",
+    "definitions": ["En rire de pitié (comme étant un ouvrage rococo), (et même tonner contre)."]
+  },
+  {
+    "key": "enfants",
+    "term": "ENFANTS",
+    "definitions": ["Affecter pour eux une tendresse lyrique, quand il y a du monde."]
+  },
+  {
+    "key": "engelure",
+    "term": "ENGELURE",
+    "definitions": ["Signe de santé; vient de s'être chauffé quand on avait froid."]
+  },
+  {
+    "key": "enterrement",
+    "term": "ENTERREMENT",
+    "definitions": ["À propos du défunt: «Et dire que je dînais avec lui il y a huit jours!»"]
+  },
+  {
+    "key": "enthousiasme",
+    "term": "ENTHOUSIASME",
+    "definitions": ["Ne peut être provoqué que par le retour des cendres de l'Empereur."]
+  },
+  { "key": "entr-acte", "term": "ENTR-ACTE", "definitions": ["Toujours trop long."] },
+  { "key": "envergure", "term": "ENVERGURE", "definitions": ["Se disputer sur la prononciation du mot."] },
+  { "key": "epacte", "term": "ÉPACTE", "definitions": ["Sur les calendriers.", "On ne sait pas ce que c'est."] },
+  { "key": "epargne", "term": "ÉPARGNE (CAISSE D')", "definitions": ["Occasion de vol pour les domestiques."] },
+  { "key": "epee", "term": "ÉPÉE", "definitions": ["Regretter le temps où on en portait."] },
+  { "key": "eperons", "term": "ÉPERONS", "definitions": ["Font bien à une paire de bottes."] },
+  { "key": "epicure", "term": "ÉPICURE", "definitions": ["Le mépriser."] },
+  {
+    "key": "epoque",
+    "term": "ÉPOQUE (LA NÔTRE)",
+    "definitions": [
+      "Tonner contre elle.",
+      "Se plaindre de ce qu'elle n'est pas poétique.",
+      "L'appeler époque de transition, de décadence."
+    ]
+  },
+  { "key": "epuisement", "term": "ÉPUISEMENT", "definitions": ["Toujours prématuré."] },
+  {
+    "key": "equitation",
+    "term": "ÉQUITATION",
+    "definitions": [
+      "Bon exercice pour faire maigrir. Ex.: tous les soldats de cavalerie sont maigres.",
+      "Bon exercice pour engraisser. Exemple: tous les officiers de cavalerie ont un gros ventre."
+    ]
+  },
+  { "key": "erection", "term": "ÉRECTION", "definitions": ["Ne se dit qu'en parlant des monuments."] },
+  { "key": "erudition", "term": "ÉRUDITION", "definitions": ["La mépriser comme étant la marque d'un esprit étroit."] },
+  { "key": "escrime", "term": "ESCRIME", "definitions": ["Les maîtres d'escrime savent des bottes secrètes."] },
+  { "key": "escroc", "term": "ESCROC", "definitions": ["Est toujours du grand monde."] },
+  { "key": "esplanade", "term": "ESPLANADE", "definitions": ["Ne se voit qu'aux Invalides."] },
+  { "key": "estomac", "term": "ESTOMAC", "definitions": ["Toutes les maladies viennent de l'estomac."] },
+  { "key": "etagere", "term": "ÉTAGÈRE", "definitions": ["Indispensable chez une jolie femme."] },
+  { "key": "etalon", "term": "ÉTALON", "definitions": ["Pour les petites filles, cheval plus gros qu'un autre."] },
+  { "key": "ete", "term": "ÉTÉ", "definitions": ["Toujours exceptionnel."] },
+  {
+    "key": "eternuement",
+    "term": "ÉTERNUEMENT",
+    "definitions": ["Après qu'on a dit: «Dieu vous bénisse,» engager une discussion sur l'origine de cet usage."]
+  },
+  { "key": "etoile", "term": "ÉTOILE", "definitions": ["Chacun a la sienne."] },
+  {
+    "key": "etranger",
+    "term": "ÉTRANGER",
+    "definitions": [
+      "Engouement pour tout ce qui vient de l'étranger, preuve de l'esprit libéral.",
+      "Dénigrement de tout ce qui n'est pas français, preuve de patriotisme."
+    ]
+  },
+  { "key": "etrennes", "term": "ÉTRENNES", "definitions": ["S'indigner contre."] },
+  { "key": "etrusque", "term": "ÉTRUSQUE", "definitions": ["Tous les vases anciens sont étrusques."] },
+  {
+    "key": "etymologie",
+    "term": "ÉTYMOLOGIE",
+    "definitions": ["Rien de plus facile à trouver avec le latin et un peu de réflexion."]
+  },
+  { "key": "eunuque", "term": "EUNUQUE", "definitions": ["Fulminer contre les castrats de la chapelle Sixtine."] },
+  {
+    "key": "executions-capitales",
+    "term": "EXÉCUTIONS CAPITALES",
+    "definitions": ["Se plaindre des femmes qui vont les voir."]
+  },
+  {
+    "key": "exercice",
+    "term": "EXERCICE",
+    "definitions": ["Préserve de toutes les maladies: toujours conseiller d'en faire."]
+  },
+  { "key": "exposition", "term": "EXPOSITION", "definitions": ["Sujet de délire du XIXe siècle."] },
+  {
+    "key": "extirper",
+    "term": "EXTIRPER",
+    "definitions": ["Ce verbe ne s'emploie que pour les hérésies et les cors aux pieds."]
+  },
+  { "key": "fabrique", "term": "FABRIQUE", "definitions": ["Voisinage dangereux."] },
+  { "key": "facture", "term": "FACTURE", "definitions": ["Toujours trop élevée."] },
+  { "key": "faisan", "term": "FAISAN", "definitions": ["Très chic dans un dîner."] },
+  {
+    "key": "faisceaux",
+    "term": "FAISCEAUX",
+    "definitions": ["À former, est le comble de la difficulté dans la garde nationale."]
+  },
+  { "key": "fard", "term": "FARD", "definitions": ["Abîme la peau."] },
+  { "key": "faubourgs", "term": "FAUBOURGS", "definitions": ["Terribles dans les révolutions."] },
+  {
+    "key": "faute",
+    "term": "FAUTE",
+    "definitions": [
+      "«C'est pire qu'un crime, c'est une faute.» (Talleyrand)",
+      "«Il ne vous reste plus de fautes à commettre.» (Thiers)",
+      "Ces deux phrases doivent être articulées avec profondeur."
+    ]
+  },
+  { "key": "faux-monnayeur", "term": "FAUX-MONNAYEUR", "definitions": ["Travaillent toujours dans les souterrains."] },
+  {
+    "key": "faux-rateliers",
+    "term": "FAUX RATELIERS",
+    "definitions": ["Troisième dentition.", "Prendre garde de l'avaler en dormant."]
+  },
+  {
+    "key": "femmes-de-chambre",
+    "term": "FEMMES DE CHAMBRE",
+    "definitions": [
+      "Plus jolies que leurs maîtresses.",
+      "Connaissent tous leurs secrets et les trahissent.",
+      "Toujours déshonorées par le fils de la maison."
+    ]
+  },
+  { "key": "feodalite", "term": "FÉODALITÉ", "definitions": ["(N'en avoir aucune idée précise mais) tonner contre."] },
+  { "key": "fermiers", "term": "FERMIERS", "definitions": ["Tous à leur aise."] },
+  {
+    "key": "feu",
+    "term": "FEU",
+    "definitions": ["Purifie tout.", "Quand on entend crier «au feu», on doit commencer par perdre la tête."]
+  },
+  {
+    "key": "feuilletons",
+    "term": "FEUILLETONS",
+    "definitions": [
+      "Cause de démoralisation.",
+      "Se disputer sur le dénouement probable.",
+      "Écrire à l'auter pour lui donner (fournir) des idées."
+    ]
+  },
+  { "key": "fievre", "term": "FIÈVRE", "definitions": ["Preuve de la force du sang.", "Est causée par les prunes."] },
+  { "key": "figaro", "term": "FIGARO (LE MARIAGE DE)", "definitions": ["Encore une des causes de la Révolution!"] },
+  {
+    "key": "filles",
+    "term": "FILLES",
+    "definitions": ["Les jeunes filles: éviter pour elles toute espèce de livres.", "Articuler ce mot timidement."]
+  },
+  { "key": "flamant", "term": "FLAMANT", "definitions": ["(oiseau) ainsi nommé parce qu'il vient des Flandres."] },
+  { "key": "foetus", "term": "FOETUS", "definitions": ["Toute piève anatomique conservée dans de l'esprit de vin."] },
+  {
+    "key": "fonctionnaire",
+    "term": "FONCTIONNAIRE",
+    "definitions": ["Inspire le respect, quelle que soit la fonction qu'il remplisse."]
+  },
+  { "key": "fondement", "term": "FONDEMENT", "definitions": ["Toutes les nouvelles en manquent."] },
+  {
+    "key": "fonds-secrets",
+    "term": "FONDS SECRETS",
+    "definitions": ["Sommes incalculables avec lesquels les ministres achètent les consciences.", "S'indigner contre."]
+  },
+  {
+    "key": "forcats",
+    "term": "FORÇATS",
+    "definitions": [
+      "Ont toujours une figure patibulaire.",
+      "Tous très adroits de leurs mains.",
+      "Au bagne, il y a des hommes de génie."
+    ]
+  },
+  {
+    "key": "fornarina",
+    "term": "FORNARINA",
+    "definitions": ["(c'était) une belle femme; inutile d'en savoir plus long."]
+  },
+  {
+    "key": "fortune",
+    "term": "FORTUNE",
+    "definitions": ["Quand on vous parle d'une grande fortune, ne pas manquer de dire: «Oui, mais est-elle bien sûre?»"]
+  },
+  {
+    "key": "fossile",
+    "term": "FOSSILE",
+    "definitions": ["Preuve du déluge.", "Plaisanterie de bon goût, en parlant d'un académicien."]
+  },
+  { "key": "foudre-du-vatican", "term": "FOUDRE DU VATICAN", "definitions": ["En rire."] },
+  {
+    "key": "foulard",
+    "term": "FOULARD",
+    "definitions": ["Il est «comme il faut» de se moucher dedans (dans un foulard)."]
+  },
+  { "key": "foule", "term": "FOULE", "definitions": ["A toujours de bons instincts."] },
+  {
+    "key": "fourmis",
+    "term": "FOURMIS",
+    "definitions": ["Bel exemple à citer devant un dissipateur.", "Ont donné l'idée des caisses d'épargne."]
+  },
+  { "key": "fourrure", "term": "FOURRURE", "definitions": ["Signe de richesse."] },
+  {
+    "key": "franc-maconnerie",
+    "term": "FRANC-MAÇONNERIE",
+    "definitions": [
+      "Encore une des causes de la Révolution!",
+      "Les épreuves d'initiation sont terribles: quelques-un en sont morts.",
+      "Cause de dispute dans les ménages.",
+      "Mal vue des ecclésiastiques.",
+      "Quel peut bien être leur secret?"
+    ]
+  },
+  { "key": "francais", "term": "FRANÇAIS", "definitions": ["Le premier peuple de l'univers."] },
+  { "key": "francs-tireurs", "term": "FRANCS-TIREURS", "definitions": ["Plus terribles que l'ennemi."] },
+  { "key": "fresque", "term": "FRESQUE", "definitions": ["On n'en fait plus."] },
+  { "key": "fricassee", "term": "FRICASSÉE", "definitions": ["Ne se fait bien qu'à la campagne."] },
+  { "key": "friser", "term": "FRISER", "definitions": ["Ne convient pas à un homme."] },
+  { "key": "frisure", "term": "FRISURE", "definitions": ["Ne convient pas à un homme."] },
+  { "key": "froid", "term": "FROID", "definitions": ["Plus sain que la chaleur."] },
+  {
+    "key": "fromage",
+    "term": "FROMAGE",
+    "definitions": [
+      "Citer l'aphorisme de Brillat-Savarin: «un dîner sans fromage est comme une belle à qui il manque un oeil.»"
+    ]
+  },
+  { "key": "front", "term": "FRONT", "definitions": ["Large et chauve, signe de génie."] },
+  { "key": "frontispice", "term": "FRONTISPICE", "definitions": ["Les grands hommes font bien dessus."] },
+  {
+    "key": "fruste",
+    "term": "FRUSTE",
+    "definitions": [
+      "Tout ce qui est antique est fruste, et tout ce qui est fruste est antique.",
+      "À bien se rappeler quand on achète des curiosités."
+    ]
+  },
+  {
+    "key": "fugue",
+    "term": "FUGUE",
+    "definitions": [
+      "On ignore en quoi cela cela consiste, mais il faut affirmer que c'est fort difficile et très ennuyeux."
+    ]
+  },
+  { "key": "fulminer", "term": "FULMINER", "definitions": ["Joli verbe."] },
+  { "key": "fusil", "term": "FUSIL", "definitions": ["Toujours en avoir un à la campagne."] },
+  {
+    "key": "fusiller",
+    "term": "FUSILLER",
+    "definitions": ["Plus noble que guillotiner.", "Joie de l'individu à qui on accorde cette faveur."]
+  },
+  {
+    "key": "fusion-des-branches-royales",
+    "term": "FUSION DES BRANCHES ROYALES",
+    "definitions": ["L'espérer toujours!"]
+  },
+  {
+    "key": "gagne-petit",
+    "term": "GAGNE-PETIT",
+    "definitions": ["Belle enseigne pour une boutique, comme inspirant la confiance."]
+  },
+  {
+    "key": "galbe",
+    "term": "GALBE",
+    "definitions": ["Dire devant toute statue qu'on examine: «Ça ne manque pas de galbe.»"]
+  },
+  { "key": "galets", "term": "GALETS", "definitions": ["Il [faut] en rapporter de la mer."] },
+  {
+    "key": "gamin",
+    "term": "GAMIN",
+    "definitions": ["Toujours suivi de «Paris».", "A invariablement beaucoup d'esprit."]
+  },
+  {
+    "key": "gares-de-chemin-de-fer",
+    "term": "GARES DE CHEMIN DE FER",
+    "definitions": ["S'extasier devant elles et les donner comme modèles d'architecture."]
+  },
+  { "key": "garnison-de-jeune-homme", "term": "GARNISON DE JEUNE HOMME", "definitions": ["= id est culex pubensis."] },
+  {
+    "key": "gauchers",
+    "term": "GAUCHERS",
+    "definitions": ["Terribles à l'escrime.", "Plus adroits que ceux qui se servent de la main droite."]
+  },
+  { "key": "gendarmes", "term": "GENDARMES", "definitions": ["Rempart de la société."] },
+  { "key": "generation-spontanee", "term": "GÉNÉRATION SPONTANÉE", "definitions": ["Idée de socialiste."] },
+  { "key": "genie", "term": "GÉNIE (LE)", "definitions": ["(Inutile de l'admirer, c'est) «une névrose»."] },
+  { "key": "genovefain", "term": "GÉNOVÉFAIN", "definitions": ["On ne sait pas ce que c'est."] },
+  {
+    "key": "genre-epistolaire",
+    "term": "GENRE ÉPISTOLAIRE",
+    "definitions": ["Genre de style exclusivement réservé aux femmes."]
+  },
+  { "key": "gentilhomme", "term": "GENTILHOMME", "definitions": ["Il n'y [en] a plus."] },
+  {
+    "key": "giaour",
+    "term": "GIAOUR",
+    "definitions": ["Expression farouche, d'une signification inconnue, mais on sait que ça a rapport avec l'Orient."]
+  },
+  { "key": "gibelotte", "term": "GIBELOTTE", "definitions": ["Toujours faite avec du chat."] },
+  { "key": "giberne", "term": "GIBERNE", "definitions": ["Étui pour bâton de maréchal de France."] },
+  { "key": "gibier", "term": "GIBIER", "definitions": ["N'est bon que faisandé."] },
+  { "key": "girondins", "term": "GIRONDINS", "definitions": ["Plus à plaindre qu'à blâmer."] },
+  { "key": "glaces", "term": "GLACES", "definitions": ["Il est dangereux d'en prendre."] },
+  { "key": "glebe", "term": "GLÈBE (LA)", "definitions": ["S'apitoyer sur la glèbe."] },
+  { "key": "gloire", "term": "GLOIRE", "definitions": ["N'est qu'un peu de fumée."] },
+  {
+    "key": "gobelins",
+    "term": "GOBELINS (TAPISSERIE DES)",
+    "definitions": [
+      "Est une œuvre inouïe et qui demande cinquante ans à finir.",
+      "S'écrier devant: «C'est plus beau que la peinture!»",
+      "L'ouvrier ne sait pas ce qu'il fait."
+    ]
+  },
+  {
+    "key": "god-save-the-king",
+    "term": "GOD SAVE THE KING",
+    "definitions": ["Chez Béranger se prononce: God savé te King, et rime ave Sauvé (Préservé)."]
+  },
+  { "key": "gomme-elastique", "term": "GOMME ÉLASTIQUE", "definitions": ["Est faite avec le scrotum du cheval."] },
+  {
+    "key": "gothique",
+    "term": "GOTHIQUE",
+    "definitions": ["Style d'architecture portant plus à la religion que les autres."]
+  },
+  {
+    "key": "grammaire",
+    "term": "GRAMMAIRE",
+    "definitions": ["L'apprendre aux enfants dès le plus bas âge, comme étant une chose claire et facile."]
+  },
+  {
+    "key": "gras",
+    "term": "GRAS",
+    "definitions": [
+      "Les personnes grasses n'ont pas besoin d'apprendre à nager.",
+      "Font le désespoir des bourreaux parce qu'elles offrent des difficultés d'exécution: Exemple: La Du Barry."
+    ]
+  },
+  { "key": "grele", "term": "GRÈLÉ", "definitions": ["Les femmes grèlées sont toutes lascives."] },
+  { "key": "grenier", "term": "GRENIER", "definitions": ["On y est bien à vingt ans!"] },
+  { "key": "grenouille", "term": "GRENOUILLE", "definitions": ["La femelle du crapaud."] },
+  { "key": "grog", "term": "GROG", "definitions": ["Pas comme il faut."] },
+  {
+    "key": "grottes-a-stalactites",
+    "term": "GROTTES À STALACTITES",
+    "definitions": [
+      "Il y a eu dedans une fête célèbre, bal ou souper, donnée par un grand personnage.",
+      "On y voit «comme des tuyaux d'orgue».",
+      "On y a dit la messe pendant la Révolution."
+    ]
+  },
+  { "key": "groupe", "term": "GROUPE", "definitions": ["Convient sur une cheminée et en politique."] },
+  { "key": "guerilla", "term": "GUÉRILLA", "definitions": ["Fait plus de mal à l'ennemi que l'armée régulière."] },
+  {
+    "key": "gulf-stream",
+    "term": "GULF-STREAM",
+    "definitions": ["Ville (célèbre) de Norvège, nouvellement découverte."]
+  },
+  { "key": "gymnase", "term": "GYMNASE (LE)", "definitions": ["Succursale de la Comédie-Française."] },
+  {
+    "key": "gymnastique",
+    "term": "GYMNASTIQUE",
+    "definitions": ["On ne saurait trop en faire.", "Exténue les enfants."]
+  },
+  {
+    "key": "habit-noir",
+    "term": "HABIT NOIR",
+    "definitions": ["En province, est le dernier terme de la cérémonie et du dérangement."]
+  },
+  { "key": "haleine", "term": "HALEINE", "definitions": ["L'avoir «forte» donne «l'air distingué»."] },
+  {
+    "key": "hamac",
+    "term": "HAMAC",
+    "definitions": [
+      "Propre aux créoles.",
+      "Indispensable dans un jardin.",
+      "Se persuader qu'on y est mieux que dans un lit."
+    ]
+  },
+  { "key": "hameau", "term": "HAMEAU", "definitions": ["Substantif attendrissant.", "Fait bien en poésie."] },
+  {
+    "key": "hannetons",
+    "term": "HANNETONS",
+    "definitions": ["Beau sujet d'opuscule.", "Leur destruction radicale est le rêve de tout préfet."]
+  },
+  { "key": "haquenee", "term": "HAQUENÉE", "definitions": ["Animal blanc du moyen âge, dont la race est disparue."] },
+  {
+    "key": "haras",
+    "term": "HARAS",
+    "definitions": ["La question des haras, beau sujet de discussion parlementaire."]
+  },
+  { "key": "harengs", "term": "HARENGS", "definitions": ["Fortune de la Hollande."] },
+  {
+    "key": "harpe",
+    "term": "HARPE",
+    "definitions": [
+      "Produit des harmonies célestes.",
+      "Ne se joue, en gravure, que sur des ruines ou au bord d'un torrent.",
+      "Fait valoir le bras et la main."
+    ]
+  },
+  { "key": "hebreu", "term": "HÉBREU", "definitions": ["Est hébreu tout ce qu'on ne comprend pas."] },
+  { "key": "heiduque", "term": "HEIDUQUE", "definitions": ["Le confondre avec Eunuque."] },
+  { "key": "helice", "term": "HÉLICE", "definitions": ["Avenir de la mécanique."] },
+  { "key": "hemicycle", "term": "HÉMICYCLE", "definitions": ["Ne connaître que celui des Beaux-Arts."] },
+  {
+    "key": "hemorrhoides",
+    "term": "HÉMORRHOÏDES",
+    "definitions": ["Vient de s'asseoir sur les poêles (ou sur les bancs de pierre)."]
+  },
+  {
+    "key": "henri-iii-et-henri-iv",
+    "term": "HENRI III ET HENRI IV",
+    "definitions": ["à propos de ces rois, ne pas manquer de dire: «Tous les Henri ont été malheureux.»"]
+  },
+  {
+    "key": "hermaphrodite",
+    "term": "HERMAPHRODITE",
+    "definitions": ["Excite la curiosité (malsaine).", "Chercher à en voir."]
+  },
+  { "key": "hernie", "term": "HERNIE", "definitions": ["Tout le monde en a sans le savoir."] },
+  { "key": "hiatus", "term": "HIATUS", "definitions": ["Ne pas le tolérer."] },
+  {
+    "key": "hieroglyphes",
+    "term": "HIÉROGLYPHES",
+    "definitions": [
+      "Ancienne langue des Égyptiens, inventée par les prêtres pour cacher leurs secrets criminels.",
+      "Et dire qu'il y a des gens qui les comprennent!",
+      "Après tout, c'est peut-être une blague?"
+    ]
+  },
+  {
+    "key": "hippocrate",
+    "term": "HIPPOCRATE",
+    "definitions": ["On doit toujours le citer en latin, parce qu'il écrivait en grec."]
+  },
+  {
+    "key": "hiver",
+    "term": "HIVER",
+    "definitions": ["Toujours exceptionnel. (Voy. Été).", "Est plus sain que les autres saisons."]
+  },
+  {
+    "key": "hobereaux-de-campagne",
+    "term": "HOBEREAUX DE CAMPAGNE",
+    "definitions": ["Avoir pour eux le plus souverain mépris."]
+  },
+  {
+    "key": "homere",
+    "term": "HOMÈRE",
+    "definitions": ["N'a jamais existé.", "Célèbre par sa façon de rire: (un rire homérique)."]
+  },
+  {
+    "key": "hospodar",
+    "term": "HOSPODAR",
+    "definitions": ["Fais bien dans une phrase, à propos de «la question d'Orient»."]
+  },
+  { "key": "hotels", "term": "HÔTELS", "definitions": ["Ne sont bons qu'en Suisse."] },
+  { "key": "hugo", "term": "HUGO (VICTOR)", "definitions": ["A eu bien tort vraiment de s'occuper de politique."] },
+  {
+    "key": "huile-dolive",
+    "term": "HUILE D'OLIVE",
+    "definitions": [
+      "N'est jamais bonne.",
+      "Il faut avoir un ami de Marseille, qui vous en fait venir un petit tonneau."
+    ]
+  },
+  {
+    "key": "huitres",
+    "term": "HUÎTRES",
+    "definitions": ["On n'en mange plus! Elles sont trop chères!"]
+  },
+  {
+    "key": "humeur",
+    "term": "HUMEUR",
+    "definitions": [
+      "Se réjouir quand elle sort, et s'étonner que le corps humain puisse en contenir de si grandes quantités."
+    ]
+  },
+  { "key": "humidite", "term": "HUMIDITÉ", "definitions": ["Cause de toutes les maladies."] },
+  { "key": "hydre", "term": "HYDRE (DE L'ANARCHIE)", "definitions": ["Tâcher de la vaincre."] },
+  { "key": "hydrotherapie", "term": "HYDROTHÉRAPIE", "definitions": ["Enlève tous les maladies et les procure."] },
+  {
+    "key": "hypotheque",
+    "term": "HYPOTHÈQUE",
+    "definitions": ["Demander «la réforme du régime hypothécaire», très riche."]
+  },
+  { "key": "hysterie", "term": "HYSTÉRIE", "definitions": ["La confondre avec la nymphomanie."] },
+  { "key": "ideal", "term": "IDÉAL", "definitions": ["Tout à fait inutile."] },
+  { "key": "ideologue", "term": "IDÉOLOGUE", "definitions": ["Tous les journalistes le sont."] },
+  { "key": "idolatres", "term": "IDOLÂTRES", "definitions": ["Sont cannibales."] },
+  {
+    "key": "illisible",
+    "term": "ILLISIBLE",
+    "definitions": ["Une ordonnance de médecin doit l'être; toute signature id."]
+  },
+  {
+    "key": "illusions",
+    "term": "ILLUSIONS",
+    "definitions": ["(Affecter d'en avoir eu beaucoup,) se plaindre de ce qu'on les a perdues."]
+  },
+  {
+    "key": "ilotes",
+    "term": "ILOTES",
+    "definitions": ["Exemple à donner à son fils, (mais on ne sait où les trouver)."]
+  },
+  { "key": "images", "term": "IMAGES", "definitions": ["Il y en a toujours trop dans la poésie."] },
+  {
+    "key": "imagination",
+    "term": "IMAGINATION",
+    "definitions": ["Toujours vive.", "S'en défier.", "Et la dénigrer chez les autres."]
+  },
+  { "key": "imbeciles", "term": "IMBÉCILES (LES)", "definitions": ["Ceux qui ne pensent pas comme vous."] },
+  { "key": "imbroglio", "term": "IMBROGLIO", "definitions": ["Le fond de toutes les pièces de théatre."] },
+  { "key": "immoralite", "term": "IMMORALITÉ", "definitions": ["Ce mot bien prononcé rehausse celui qui l'emploie."] },
+  { "key": "imperatrices", "term": "IMPÉRATRICES", "definitions": ["Toutes belles."] },
+  {
+    "key": "imperialistes",
+    "term": "IMPÉRIALISTES",
+    "definitions": ["Tous gens honnêtes, paisibles, polis, distingués."]
+  },
+  {
+    "key": "impermeable",
+    "term": "IMPERMÉABLE (UN)",
+    "definitions": [
+      "Très avantageux comme vêtement.",
+      "Meurtrier (Dangereux) (Nuisible), à cause de la transpiration empêchée."
+    ]
+  },
+  { "key": "impie", "term": "IMPIE", "definitions": ["Tonner contre."] },
+  { "key": "importation", "term": "IMPORTATION", "definitions": ["Ver rongeur du commerce."] },
+  {
+    "key": "imprimerie",
+    "term": "IMPRIMERIE",
+    "definitions": ["Découverte merveilleuse.", "A fait plus de mal que de bien."]
+  },
+  { "key": "inauguration", "term": "INAUGURATION", "definitions": ["Sujet de joie."] },
+  { "key": "incendie", "term": "INCENDIE", "definitions": ["Un spectacle à voir."] },
+  { "key": "incognito", "term": "INCOGNITO", "definitions": ["Costume des princes en voyage."] },
+  { "key": "indolence", "term": "INDOLENCE", "definitions": ["Résultat des pays chauds."] },
+  { "key": "industrie", "term": "INDUSTRIE", "definitions": ["(Voy. Commerce)."] },
+  { "key": "infanticide", "term": "INFANTICIDE", "definitions": ["Ne se commet que dans le peuple."] },
+  {
+    "key": "infinitesimal",
+    "term": "INFINITÉSIMAL",
+    "definitions": ["On ne sait pas ce que c'est, (mais a rapport à l'homéopathie.)"]
+  },
+  {
+    "key": "ingenieur",
+    "term": "INGÉNIEUR",
+    "definitions": ["La première carrière pour un jeune homme.", "Connaît toutes les sciences."]
+  },
+  {
+    "key": "inhumation",
+    "term": "INHUMATION",
+    "definitions": [
+      "Trop souvent précipités: raconter des histoires de cadavres qui s'étaient dévoré le bras pour apaiser leur faim."
+    ]
+  },
+  { "key": "innees", "term": "INNÉES (IDÉES)", "definitions": ["Les blaguer."] },
+  { "key": "innocence", "term": "INNOCENCE", "definitions": ["L'impassibilité la prouve."] },
+  { "key": "innovation", "term": "INNOVATION", "definitions": ["Toujours dangereuse."] },
+  { "key": "inondes", "term": "INONDÉS", "definitions": ["Toujours de la Loire."] },
+  { "key": "inquisition", "term": "INQUISITION", "definitions": ["On a bien exagéré ses crimes."] },
+  { "key": "inscription", "term": "INSCRIPTION", "definitions": ["Toujours cunéiforme."] },
+  {
+    "key": "inspiration",
+    "term": "INSPIRATION (POÉTIQUE)",
+    "definitions": ["Choses qui la provoquent: la vue de la mer, l'amour, la femme, etc."]
+  },
+  {
+    "key": "institue",
+    "term": "INSTITUE (L')",
+    "definitions": ["Les membres de l'Institut sont tous des vieillards (et portent abat-jour en taffetas vert.)"]
+  },
+  {
+    "key": "institutrices",
+    "term": "INSTITUTRICES",
+    "definitions": [
+      "Sont toujours d'une excellente famille qui a éprouvé des malheurs.",
+      "Dangereuses dans les maisons: corrompent le mari."
+    ]
+  },
+  {
+    "key": "instruction",
+    "term": "INSTRUCTION",
+    "definitions": ["Laisser croire qu'on en a reçu beaucoup.", "Le peuple n'en a pas besoin pour gagner sa vie."]
+  },
+  { "key": "integrite", "term": "INTÉGRITÉ", "definitions": ["Appartient surtout à la magistrature."] },
+  { "key": "intrigue", "term": "INTRIGUE", "definitions": ["Mène à tout."] },
+  { "key": "introduction", "term": "INTRODUCTION", "definitions": ["Mot obscène."] },
+  {
+    "key": "inventeurs",
+    "term": "INVENTEURS",
+    "definitions": ["Meurent tous à l'hôpital.", "Un autre profite de leur découverte, ce n'est pas juste."]
+  },
+  {
+    "key": "italie",
+    "term": "ITALIE",
+    "definitions": [
+      "Doit se voir immédiatement après le mariage.",
+      "Donne bien des déceptions, n'est pas si belle qu'on dit."
+    ]
+  },
+  { "key": "italiens", "term": "ITALIENS", "definitions": ["Tous (musiciens,) traîtres."] },
+  { "key": "ivoire", "term": "IVOIRE", "definitions": ["Ne s'emploie qu'en parlant des dents."] },
+  { "key": "jalousie", "term": "JALOUSIE", "definitions": ["Passion terrible."] },
+  { "key": "jambage", "term": "JAMBAGE (DROIT DE)", "definitions": ["Ne pas y croire."] },
+  { "key": "jambon", "term": "JAMBON", "definitions": ["Toujours de Mayence.", "S'en méfier, à cause de trichines."] },
+  {
+    "key": "jansenisme",
+    "term": "JANSÉNISME",
+    "definitions": ["On ne sait pas ce que c'est, mais il est très chic d'en parler."]
+  },
+  {
+    "key": "jardins-anglais",
+    "term": "JARDINS ANGLAIS",
+    "definitions": ["Plus naturels que les jardins à la française."]
+  },
+  {
+    "key": "jarnac",
+    "term": "JARNAC (COUP DE)",
+    "definitions": ["S'indigner contre ce coup, qui, du reste, était fort loyal."]
+  },
+  { "key": "javelot", "term": "JAVELOT", "definitions": ["Vaut bien un fusil, quand on sait s'en servir."] },
+  {
+    "key": "jesuites",
+    "term": "JÉSUITES",
+    "definitions": [
+      "Ont la main dans toutes les révolutions.",
+      "On ne se doute pas du nombre qu'il y en a.",
+      "Ne point parler de «la bataille des Jésuites»."
+    ]
+  },
+  { "key": "jeu", "term": "JEU", "definitions": ["S'indigner contre cette fatale passion."] },
+  {
+    "key": "jeune-homme",
+    "term": "JEUNE HOMME",
+    "definitions": ["Toujours farceur.", "Il doit l'être.", "S'étonner quand il ne l'est pas."]
+  },
+  { "key": "jockey", "term": "JOCKEY", "definitions": ["Déplorer la race des jockeys."] },
+  {
+    "key": "jockey-club",
+    "term": "JOCKEY CLUB",
+    "definitions": [
+      "Les membres sont tous des jeunes gens farceurs et très riches. Dire simplement «le jockey», très chic, donne à croire qu'on en fait partie."
+    ]
+  },
+  { "key": "jouets", "term": "JOUETS", "definitions": ["Devraient toujours être scientifiques."] },
+  { "key": "jouissance", "term": "JOUISSANCE", "definitions": ["Mot obscène."] },
+  { "key": "journaux", "term": "JOURNAUX", "definitions": ["Ne pouvoir s'en passer mais tonner contre."] },
+  { "key": "jujube", "term": "JUJUBE", "definitions": ["On ne sait pas avec quoi c'est fait."] },
+  { "key": "justice", "term": "JUSTICE", "definitions": ["Ne jamais s'en inquiéter."] },
+  { "key": "keepsake", "term": "KEEPSAKE", "definitions": ["Doit se trouver sur la table d'un salon."] },
+  { "key": "kiosque", "term": "KIOSQUE", "definitions": ["Lieu de délices dans un jardin."] },
+  { "key": "knout", "term": "KNOUT", "definitions": ["Mot qui vexe les Russes."] },
+  { "key": "koran", "term": "KORAN", "definitions": ["Livre de Mahomet, où il n'est question que de femmes."] },
+  { "key": "laboratoire", "term": "LABORATOIRE", "definitions": ["On doit en avoir un à la campagne."] },
+  { "key": "laboureurs", "term": "LABOUREURS", "definitions": ["Que serions-nous sans eux?"] },
+  { "key": "lac", "term": "LAC", "definitions": ["Avoir une femme près de soi, quand on se promène dessus."] },
+  { "key": "laconisme", "term": "LACONISME", "definitions": ["Langue qu'on ne parle plus."] },
+  {
+    "key": "lacustres",
+    "term": "LACUSTRES (LES VILLES)",
+    "definitions": ["Nier leur existence, parce qu'on ne peut pas vivre sous l'eau."]
+  },
+  { "key": "lagune", "term": "LAGUNE", "definitions": ["Ville de l'Adriatique."] },
+  {
+    "key": "lait",
+    "term": "LAIT",
+    "definitions": [
+      "Dissout les huîtres.",
+      "Attire les serpents.",
+      "Blanchit la peau; des femmes à Paris prennent des bain de lait tous les matins."
+    ]
+  },
+  {
+    "key": "lancette",
+    "term": "LANCETTE",
+    "definitions": ["En avoir toujours une (dans sa poche,) mais craindre de s'en servir."]
+  },
+  { "key": "langouste", "term": "LANGOUSTE", "definitions": ["Femelle du homard."] },
+  {
+    "key": "langues-vivantes",
+    "term": "LANGUES VIVANTES",
+    "definitions": ["Les malheurs de la France viennent de ce qu'on n'en sait pas assez."]
+  },
+  {
+    "key": "latin",
+    "term": "LATIN",
+    "definitions": [
+      "Langue naturelle de l'homme.",
+      "Gâte l'écriture.",
+      "Est seulement utile pour lire les inscriptions sur les fontaines publiques.",
+      "Se méfier des citations en latin: elles cachent toujours quelque chose de leste."
+    ]
+  },
+  { "key": "lethargie", "term": "LÉTHARGIE", "definitions": ["On en a vu qui duraient des années."] },
+  { "key": "libelle", "term": "LIBELLE", "definitions": ["On n'en fait plus."] },
+  {
+    "key": "liberte",
+    "term": "LIBERTÉ",
+    "definitions": ["O liberté! que de crimes on commet en ton nom!", "Nous avons toutes celles qui sont nécessaires."]
+  },
+  { "key": "libertinage", "term": "LIBERTINAGE", "definitions": ["Ne se voit que dans les grandes villes."] },
+  {
+    "key": "libre-echange",
+    "term": "LIBRE-ÉCHANGE",
+    "definitions": ["Cause (de tous les maux) (des souffrances du commerce.)"]
+  },
+  { "key": "lievre", "term": "LIÈVRE", "definitions": ["Dort les yeux ouverts."] },
+  { "key": "ligueurs", "term": "LIGUEURS", "definitions": ["Précurseurs du libéralisme en France."] },
+  {
+    "key": "lilas",
+    "term": "LILAS",
+    "definitions": ["Fait plaisir parce qu'il annonce l'été."]
+  },
+  { "key": "linge", "term": "LINGE", "definitions": ["On n'en montre jamais trop (assez)."] },
+  { "key": "lion", "term": "LION", "definitions": ["Est généreux.", "Joue toujours avec une boule."] },
+  { "key": "litterature", "term": "LITTÉRATURE", "definitions": ["Occupation des oisifs."] },
+  {
+    "key": "littre",
+    "term": "LITTRÉ",
+    "definitions": ["Ricaner quand on entend son nom: «Ce monsieur qui dit que nous descendons des singes.»"]
+  },
+  { "key": "livre", "term": "LIVRE", "definitions": ["Quel qu'il soit, toujours trop long."] },
+  { "key": "lord", "term": "LORD", "definitions": ["Anglais riche."] },
+  { "key": "lordre", "term": "L'ORDRE", "definitions": ["Que de crimes on commet en ton nom!"] },
+  { "key": "lorgnon", "term": "LORGNON", "definitions": ["Insolent et dinstingué."] },
+  { "key": "lune", "term": "LUNE", "definitions": ["Inspire la mélancolie.", "Est peut-être habitée?"] },
+  { "key": "luxe", "term": "LUXE", "definitions": ["Perd les États."] },
+  { "key": "lycee", "term": "LYCÉE", "definitions": ["Plus noble qu'une pension."] },
+  { "key": "lynx", "term": "LYNX", "definitions": ["Animal célèbre par son oeil."] },
+  {
+    "key": "macadam",
+    "term": "MACADAM",
+    "definitions": ["A supprimé les révolutions: plus moyen de faire des barricades.", "Est néanmoins bien incommode."]
+  },
+  {
+    "key": "machiavel",
+    "term": "MACHIAVEL",
+    "definitions": ["Ne pas l'avoir lu, mais le regarder comme un scélérat."]
+  },
+  { "key": "machiavelisme", "term": "MACHIAVÉLISME", "definitions": ["Mot qu'on ne doit prononcer qu'en frémissant."] },
+  { "key": "magie", "term": "MAGIE", "definitions": ["S'en moquer."] },
+  {
+    "key": "magistrature",
+    "term": "MAGISTRATURE",
+    "definitions": ["Belle carrière pour un jeune homme (Voy. Ingénieur)."]
+  },
+  {
+    "key": "magnetisme",
+    "term": "MAGNÉTISME",
+    "definitions": ["Joli sujet de conversation et qui sert à «faire des femmes»."]
+  },
+  { "key": "maire-de-village", "term": "MAIRE DE VILLAGE", "definitions": ["Toujours ridicule."] },
+  { "key": "major", "term": "MAJOR", "definitions": ["Ne se trouve plus que dans les tables d'hôte."] },
+  {
+    "key": "mal-de-mer",
+    "term": "MAL DE MER",
+    "definitions": ["Pour ne pas l'éprouver, il suffit de penser à autre chose."]
+  },
+  {
+    "key": "malade",
+    "term": "MALADE",
+    "definitions": ["Pour remonter le moral d'un malade, rire de son affection, (et nier ses souffrances.)"]
+  },
+  { "key": "maladie-de-nerfs", "term": "MALADIE DE NERFS", "definitions": ["Toujours des grimaces."] },
+  { "key": "malediction", "term": "MALÉDICTION", "definitions": ["Toujours donnée par un père."] },
+  { "key": "maltus", "term": "MALTUS", "definitions": ["«L'infâme Maltus»."] },
+  { "key": "mamelucks", "term": "MAMELUCKS", "definitions": ["Ancien peuple de l'Orient (Égypte)."] },
+  { "key": "mandoline", "term": "MANDOLINE", "definitions": ["Indispensable pour séduire les Espagnoles."] },
+  { "key": "marseillais", "term": "MARSEILLAIS", "definitions": ["Tous gens d'esprit."] },
+  { "key": "martyrs", "term": "MARTYRS", "definitions": ["Tous les premiers chrétiens l'ont été."] },
+  { "key": "masque", "term": "MASQUE", "definitions": ["Donne de l'esprit."] },
+  { "key": "matelas", "term": "MATELAS", "definitions": ["Plus il est dur, plus il est hygiénique."] },
+  { "key": "mathematiques", "term": "MATHÉMATIQUES", "definitions": ["Dessèchent le coeur."] },
+  {
+    "key": "matinal",
+    "term": "MATINAL",
+    "definitions": [
+      "L'être, preuve de moralité.",
+      "Si l'on se couche à quatre heures du matin et qu'on se lève à huit, on est paresseux, mais si on se met au lit à 9 heures du soir pour en sortir le lendemain à cinq, on est actif."
+    ]
+  },
+  { "key": "mazarinades", "term": "MAZARINADES", "definitions": ["Les mépriser. Inutile d'en connaître une seule."] },
+  { "key": "mecanique", "term": "MÉCANIQUE", "definitions": ["Partie inférieure des mathématiques."] },
+  { "key": "medaille", "term": "MÉDAILLE", "definitions": ["On n'en faisait que dans l'antiquité."] },
+  { "key": "medecine", "term": "MÉDECINE", "definitions": ["S'en moquer quand on se porte bien."] },
+  {
+    "key": "melancolie",
+    "term": "MÉLANCOLIE",
+    "definitions": ["Signe de distinction du coeur et d'élévation de l'esprit."]
+  },
+  { "key": "melodrames", "term": "MÉLODRAMES", "definitions": ["Moins immoraux que les drames."] },
+  {
+    "key": "melon",
+    "term": "MELON",
+    "definitions": [
+      "Joli sujet de conversation à table. Est-ce un légume? est-ce un fruit?",
+      "Les Anglais le mangent au dessert, ce qui étonne."
+    ]
+  },
+  {
+    "key": "memoire",
+    "term": "MÉMOIRE",
+    "definitions": [
+      "Se plaindre de la sienne, et même se vanter de n'en pas avoir.",
+      "Mais rugir si on vous dit que vous n'avez pas de jugement."
+    ]
+  },
+  { "key": "menage", "term": "MÉNAGE", "definitions": ["En parler toujours avec respect."] },
+  { "key": "mendicite", "term": "MENDICITÉ", "definitions": ["Devrait être interdite et ne l'est jamais."] },
+  {
+    "key": "mer",
+    "term": "MER",
+    "definitions": ["N'a pas de fond.", "Image de l'infini.", "Donne de grandes pensées."]
+  },
+  { "key": "mercure", "term": "MERCURE", "definitions": ["Tue la maladie et le malade."] },
+  { "key": "meridionaux", "term": "MÉRIDIONAUX (LES)", "definitions": ["Tous poètes."] },
+  { "key": "message", "term": "MESSAGE", "definitions": ["Plus noble que Lettre."] },
+  { "key": "metallurgie", "term": "MÉTALLURGIE", "definitions": ["Très chic."] },
+  {
+    "key": "metamorphose",
+    "term": "MÉTAMORPHOSE",
+    "definitions": ["Rire du temps où on y croyait.", "Ovide en est l'inventeur."]
+  },
+  { "key": "metaphores", "term": "MÉTAPHORES", "definitions": ["Il y en a toujours trop dans le style."] },
+  {
+    "key": "metaphysique",
+    "term": "MÉTAPHYSIQUE",
+    "definitions": ["En rire: donne l'air (c'est une preuve) d'esprit supérieur."]
+  },
+  { "key": "methode", "term": "MÉTHODE", "definitions": ["Ne sert à rien."] },
+  { "key": "midi", "term": "MIDI (CUISINE DU)", "definitions": ["Toujours de l'ail.", "Tonner contre."] },
+  { "key": "ministre", "term": "MINISTRE", "definitions": ["Dernier terme de la gloire humaine."] },
+  {
+    "key": "minuit",
+    "term": "MINUIT",
+    "definitions": ["Limite du bonheur et des plaisirs honnêtes; tout ce qu'on fait au-delà est immoral."]
+  },
+  { "key": "missionnaires", "term": "MISSIONNAIRES", "definitions": ["Sont tous mangés ou crucifiés."] },
+  { "key": "mobilier", "term": "MOBILIER", "definitions": ["Tout craindre pour son mobilier."] },
+  { "key": "monstres", "term": "MONSTRES", "definitions": ["On n'en voit plus."] },
+  {
+    "key": "montre",
+    "term": "MONTRE",
+    "definitions": [
+      "N'est bonne que si elle vient de Genève.",
+      "Dans les féeries, quand un personnage tire la sienne, ce doit être un oignon: cette plaisanterie est infaillible."
+    ]
+  },
+  { "key": "mosaiques", "term": "MOSAÏQUES", "definitions": ["Le secret en est perdu."] },
+  { "key": "mouchards", "term": "MOUCHARDS", "definitions": ["Tous de la police."] },
+  { "key": "moulin", "term": "MOULIN", "definitions": ["Fait bien dans un paysage."] },
+  { "key": "moustique", "term": "MOUSTIQUE", "definitions": ["Plus dangereux que n'importe quelle bête féroce."] },
+  { "key": "moutarde", "term": "MOUTARDE", "definitions": ["Ruine l'estomac."] },
+  {
+    "key": "musee",
+    "term": "MUSÉE",
+    "definitions": [
+      "De Versailles: (Retrace les hauts faits de la gloire nationale).",
+      "Belle idée du roi Louis-Philippe.",
+      "Du Louvre: à éviter pour les jeunes filles.",
+      "Dupuytren: très utile à montrer aux jeunes gens."
+    ]
+  },
+  {
+    "key": "musicien",
+    "term": "MUSICIEN",
+    "definitions": [
+      "Le propre du véritable musicien, c'est de ne composer aucune musique, de ne jouer d'aucun instrument, et de mépriser les virtuoses."
+    ]
+  },
+  {
+    "key": "musique",
+    "term": "MUSIQUE",
+    "definitions": ["Fait penser à un tas de choses.", "Adoucit les moeurs. Ex: La Marseillaise."]
+  },
+  { "key": "nations", "term": "NATIONS", "definitions": ["Réunir ici tous les peuples. (?)"] },
+  { "key": "navire", "term": "NAVIRE", "definitions": ["On ne les construit bien qu'à Bayonne."] },
+  { "key": "nectar", "term": "NECTAR", "definitions": ["Le confondre avec l'ambroisie."] },
+  {
+    "key": "negres",
+    "term": "NÈGRES",
+    "definitions": ["S'étonner que leur salive soit blanche, et de ce qu'ils parlent français."]
+  },
+  {
+    "key": "negresses",
+    "term": "NÈGRESSES",
+    "definitions": ["Plus chaudes que les blanches (Voy. Brunes et Blondes)."]
+  },
+  { "key": "neologisme", "term": "NÉOLOGISME", "definitions": ["La perte de la langue française."] },
+  {
+    "key": "nerveux",
+    "term": "NERVEUX",
+    "definitions": ["Se dit chaque fois qu'on ne comprend rien à une maladie; cette explication satisfait l'auditeur."]
+  },
+  { "key": "noblesse", "term": "NOBLESSE", "definitions": ["La mépriser et l'envier."] },
+  { "key": "noeud-gordien", "term": "NOEUD GORDIEN", "definitions": ["A rapport avec l'antiquité."] },
+  {
+    "key": "nombre-dor",
+    "term": "NOMBRE D'OR (LETTRE DOMINICALE)",
+    "definitions": ["Sur les calendriers.", "On ne sait pas ce que c'est."]
+  },
+  {
+    "key": "normands",
+    "term": "NORMANDS",
+    "definitions": ["Croire qu'ils prononcent des hâvre-sâcs, et les blaguer sur le bonnet de coton."]
+  },
+  { "key": "notaires", "term": "NOTAIRES", "definitions": ["Maintenant ne pas s'y fier."] },
+  {
+    "key": "numismatique",
+    "term": "NUMISMATIQUE",
+    "definitions": ["A rapport aux hautes sciences, inspire un immense respect."]
+  },
+  { "key": "oasis", "term": "OASIS", "definitions": ["Auberge dans le désert."] },
+  { "key": "obus", "term": "OBUS", "definitions": ["Sert à faire des pendules et des encriers."] },
+  { "key": "octroi", "term": "OCTROI", "definitions": ["On doit le frauder."] },
+  { "key": "odalisque", "term": "ODALISQUE", "definitions": ["(Voy. Bayadère)."] },
+  { "key": "odeon", "term": "ODÉON", "definitions": ["Plaisanterie sur son éloignement."] },
+  { "key": "odeur", "term": "ODEUR (DES PIEDS)", "definitions": ["Signe de santé."] },
+  {
+    "key": "oeuf",
+    "term": "OEUF",
+    "definitions": ["Point de départ pour une dissertation philosophique sur la génèse des êtres."]
+  },
+  {
+    "key": "offenbach",
+    "term": "OFFENBACH",
+    "definitions": [
+      "Dès qu'on entend son nom, il faut fermer deux doigts de la main droite pour se préserver du mauvais oeil. Très parisien bien porté."
+    ]
+  },
+  {
+    "key": "oiseau",
+    "term": "OISEAU",
+    "definitions": ["Désirer en être un, et dire en soupirant: «Des ailes! Des ailes!» marque une âme poétique."]
+  },
+  {
+    "key": "omega",
+    "term": "OMÉGA",
+    "definitions": ["Deuxième lettre de l'alphabet grec, puisqu'on dit toujours l'alfa et l'oméga."]
+  },
+  {
+    "key": "omnibus",
+    "term": "OMNIBUS",
+    "definitions": [
+      "On n'y trouve jamais de place.",
+      "Ont été inventés par Louis XIV.",
+      "«Moi, monsieur, j'ai connu les tricycles qui n'avaient que trois roues!»"
+    ]
+  },
+  { "key": "opera", "term": "OPÉRA (COULISSES DE)", "definitions": ["(est le paradis de Mahomet) (sur la terre)."] },
+  { "key": "optimiste", "term": "OPTIMISTE", "definitions": ["Équivalent d'imbécile."] },
+  { "key": "oraison", "term": "ORAISON", "definitions": ["Tout discours de Bossuet."] },
+  {
+    "key": "orchestre",
+    "term": "ORCHESTRE",
+    "definitions": ["Image de la société; chacun fait sa partie et il y a un chef."]
+  },
+  { "key": "orchite", "term": "ORCHITE", "definitions": ["Maladie de Monsieur."] },
+  { "key": "ordre", "term": "ORDRE", "definitions": ["Que de crimes on commet en ton nom!"] },
+  { "key": "oreiller", "term": "OREILLER", "definitions": ["Ne jamais s'en servir, ça rend bossu."] },
+  { "key": "orgue", "term": "ORGUE", "definitions": ["Élève l'âme vers Dieu."] },
+  { "key": "orientaliste", "term": "ORIENTALISTE", "definitions": ["Homme qui a beaucoup voyagé."] },
+  {
+    "key": "original",
+    "term": "ORIGINAL",
+    "definitions": ["Rire de tout ce qui est original, le haïr, le bafouer, et l'exterminer si l'on peut."]
+  },
+  {
+    "key": "orthographe",
+    "term": "ORTHOGRAPHE",
+    "definitions": ["Y croire comme aux mathématiques, (à la géométrie.)"]
+  },
+  {
+    "key": "ours",
+    "term": "OURS",
+    "definitions": [
+      "S'appelle généralement Martin.",
+      "Citer l'anecdote de l'Invalide, qui, voyant une montre tombée dans sa fosse, y est descendu, et a été dévoré."
+    ]
+  },
+  { "key": "ouvrier", "term": "OUVRIER", "definitions": ["Toujours honnête, quand il ne fait pas d'émeutes."] },
+  {
+    "key": "paganini",
+    "term": "PAGANINI",
+    "definitions": ["N'accordait jamais son violon.", "Célèbre par la longueur de ses doigts."]
+  },
+  { "key": "pain", "term": "PAIN", "definitions": ["On ne sait pas toutes les saletés qu'il y a dans le pain."] },
+  { "key": "palladium", "term": "PALLADIUM", "definitions": ["Forteresse de l'antiquité."] },
+  { "key": "palmier", "term": "PALMIER", "definitions": ["Donne de la couleur locale."] },
+  { "key": "palmyre", "term": "PALMYRE", "definitions": ["Une reine d'Égypte? des ruines? on ne sait pas."] },
+  {
+    "key": "paradoxe",
+    "term": "PARADOXE",
+    "definitions": ["Se dit toujours sur le boulevard des Italiens, entre deux bouffées de cigarette."]
+  },
+  { "key": "paraphe", "term": "PARAPHE", "definitions": ["Plus il est compliqué, plus il est beau."] },
+  {
+    "key": "parents",
+    "term": "PARENTS",
+    "definitions": ["Toujours désagréables.", "Cacher ceux qui ne sont pas riches."]
+  },
+  { "key": "pauvres", "term": "PAUVRES", "definitions": ["S'en occuper tient lieu de toutes les vertus."] },
+  { "key": "paysages", "term": "PAYSAGES (DE PEINTRES)", "definitions": ["Toujours des plats d'épinards."] },
+  {
+    "key": "pedantisme",
+    "term": "PÉDANTISME",
+    "definitions": ["Doit être bafoué, si ce n'est quand il s'applique à des choses légères."]
+  },
+  {
+    "key": "pederastie",
+    "term": "PÉDÉRASTIE",
+    "definitions": ["Maladie dont tous les hommes sont affectés à un certain âge."]
+  },
+  {
+    "key": "peigne-polonaise",
+    "term": "PEIGNE (?) POLONAISE",
+    "definitions": ["Si on coupe les cheveux, ils saignent (?)."]
+  },
+  { "key": "peinture-sur-verre", "term": "PEINTURE SUR VERRE", "definitions": ["Le secret en est perdu."] },
+  {
+    "key": "penser",
+    "term": "PENSER",
+    "definitions": ["Pénible; les choses qui nous y forcent généralement sont délaissées."]
+  },
+  { "key": "perou", "term": "PÉROU", "definitions": ["Pays où tout est en or."] },
+  { "key": "peur", "term": "PEUR", "definitions": ["Donne des ailes."] },
+  { "key": "phaeton", "term": "PHAÉTON", "definitions": ["Inventeur de voitures de ce nom."] },
+  { "key": "phenix", "term": "PHÉNIX", "definitions": ["Beau nom pour une compagnie d'assurances contre l'incendie."] },
+  {
+    "key": "philippe-dorleans-egalite",
+    "term": "PHILIPPE D'ORLÉANS-ÉGALITÉ",
+    "definitions": [
+      "Tonner contre.",
+      "Encore une des causes de la Révolution.",
+      "A commis tous les crimes de cette époque néfaste."
+    ]
+  },
+  { "key": "philosophie", "term": "PHILOSOPHIE", "definitions": ["(On doit toujours) en ricaner."] },
+  { "key": "piano", "term": "PIANO", "definitions": ["Indispensable dans un salon."] },
+  { "key": "pipe", "term": "PIPE", "definitions": ["Pas comme il faut, sauf aux bains de mer."] },
+  { "key": "pitie", "term": "PITIÉ", "definitions": ["Toujours s'en garder."] },
+  { "key": "place", "term": "PLACE", "definitions": ["Toujours en demander une."] },
+  { "key": "poesie", "term": "POÉSIE (LA)", "definitions": ["Est tout à fait inutile: passée de mode."] },
+  { "key": "poete", "term": "POÈTE", "definitions": ["Synonyme (noble) de nigaud (rêveur)."] },
+  { "key": "police", "term": "POLICE", "definitions": ["A toujours tort."] },
+  { "key": "ponsard", "term": "PONSARD", "definitions": ["Seul poète qui ait eu du bon sens."] },
+  { "key": "popilius", "term": "POPILIUS", "definitions": ["Inventeur d'une espèce de cercle."] },
+  {
+    "key": "portefeuille",
+    "term": "PORTEFEUILLE",
+    "definitions": ["En avoir un sous le bras donne l'air d'un ministre."]
+  },
+  { "key": "portrait", "term": "PORTRAIT", "definitions": ["Le difficile est de rendre le sourire."] },
+  {
+    "key": "pourpre",
+    "term": "POURPRE",
+    "definitions": [
+      "Mot plus noble que Rouge.",
+      "Citer l'anecdote du chien qui découvrit la pourpre en mordant un coquillage."
+    ]
+  },
+  { "key": "pradon", "term": "PRADON", "definitions": ["Ne pas lui pardonner d'avoir été l'émule de Racine."] },
+  { "key": "pratique", "term": "PRATIQUE", "definitions": ["Supérieure à la théorie."] },
+  {
+    "key": "pretres",
+    "term": "PRÊTRES",
+    "definitions": [
+      "Couchent avec leurs bonnes et en ont des enfants qu'ils appellent leurs neveux.",
+      "C'est égal, il y en a de bons, tout de même."
+    ]
+  },
+  { "key": "priapisme", "term": "PRIAPISME", "definitions": ["Culte de l'antiquité."] },
+  {
+    "key": "principes",
+    "term": "PRINCIPES",
+    "definitions": ["Toujours indiscutables; on ne peut en dire ni la nature, ni le nombre, n'importe, sont sacrés."]
+  },
+  { "key": "prise-de-tabac", "term": "PRISE DE TABAC", "definitions": ["Convient à l'homme de cabinet."] },
+  { "key": "progres", "term": "PROGRÈS", "definitions": ["Toujours mal entendu et trop hâtif."] },
+  { "key": "prose", "term": "PROSE", "definitions": ["Plus facile à faire que les vers."] },
+  { "key": "pucelle", "term": "PUCELLE", "definitions": ["Ne s'emploie que pour Jeanne d'Arc, et avec «d'Orléans»."] },
+  { "key": "pudeur", "term": "PUDEUR", "definitions": ["Le plus bel ornement de la femme."] },
+  {
+    "key": "punch",
+    "term": "PUNCH",
+    "definitions": [
+      "Convient à une soirée de garçons.",
+      "Source de délire.",
+      "Éteindre les lumières quand on l'allume.",
+      "Et ça produit des flammes fantastiques!"
+    ]
+  },
+  { "key": "pyramide", "term": "PYRAMIDE", "definitions": ["Ouvrage inutile."] },
+  {
+    "key": "quadrature-du-cercle",
+    "term": "QUADRATURE DU CERCLE",
+    "definitions": ["On ne sait pas ce que c'est; mais il faut lever les épaules quand on en parle."]
+  },
+  { "key": "racine", "term": "RACINE", "definitions": ["Polisson!"] },
+  { "key": "radicalisme", "term": "RADICALISME", "definitions": ["D'autant plus dangereux qu'il est latent."] },
+  { "key": "rate", "term": "RATE", "definitions": ["Autrefois on l'enlevait aux coureurs."] },
+  { "key": "reconnaissance", "term": "RECONNAISSANCE", "definitions": ["N'a pas besoin d'être exprimée."] },
+  {
+    "key": "religion",
+    "term": "RELIGION (LA)",
+    "definitions": [
+      "Fait partie des bases de la société.",
+      "Est nécessaire pour le peuple; cependant pas trop n'en faut.",
+      "«La religion de nos pères» doit se dire avec onction."
+    ]
+  },
+  {
+    "key": "republicains",
+    "term": "RÉPUBLICAINS",
+    "definitions": ["Les républicains ne sont pas tous voleurs, mais les voleurs sont tous républicains."]
+  },
+  { "key": "richesse", "term": "RICHESSE", "definitions": ["Tient lieu de tout, et même de considération."] },
+  { "key": "rime", "term": "RIME", "definitions": ["Ne s'accorde jamais avec la raison."] },
+  { "key": "rince-bouche", "term": "RINCE-BOUCHE", "definitions": ["Signe de richesse dans une maison."] },
+  { "key": "robe", "term": "ROBE", "definitions": ["Inspire le respect."] },
+  { "key": "romances", "term": "ROMANCES", "definitions": ["Le chanteur de romances plaît aux dames."] },
+  {
+    "key": "romans",
+    "term": "ROMANS",
+    "definitions": [
+      "Pervertissent les masses.",
+      "Sont moins immoraux en feuilletons qu'en volume.",
+      "Seuls les romans historiques peuvent être tolérés parce qu'ils enseignent l'histoire.",
+      "Il y a des romans écrits avec la pointe d'un scalpel, d'autres qui reposent sur la pointe d'une aiguille."
+    ]
+  },
+  { "key": "ronsard", "term": "RONSARD", "definitions": ["Ridicule avec ses mots grecs et latins."] },
+  {
+    "key": "rousseau",
+    "term": "ROUSSEAU",
+    "definitions": [
+      "Croire que J.-J. Rousseau et J.-B. Rousseau sont les deux frères comme l'étaient les deux Corneille."
+    ]
+  },
+  { "key": "rousses", "term": "ROUSSES", "definitions": ["(Voy. Blondes, Brunes, Blanches et Négresses.)"] },
+  { "key": "ruines", "term": "RUINES", "definitions": ["Font rêver, et donnent de la poésie à un paysage."] },
+  {
+    "key": "sabots",
+    "term": "SABOTS",
+    "definitions": ["Un homme riche qui a eu des commencements difficiles est (toujours) venu à Paris en sabots."]
+  },
+  { "key": "sabre", "term": "SABRE", "definitions": ["Les Français veulent être gouvernés par un sabre."] },
+  { "key": "saigner", "term": "SAIGNER", "definitions": ["Se faire saigner au printemps."] },
+  { "key": "saint-barthelemy", "term": "SAINT-BARTHÉLÉMY", "definitions": ["Vieille blague."] },
+  {
+    "key": "saint-beuve",
+    "term": "SAINT-BEUVE",
+    "definitions": ["Le Vendredi-Saint, dînait exclusivement de charcuterie."]
+  },
+  { "key": "sainte-helene", "term": "SAINTE-HÉLÈNE", "definitions": ["Ile connue par son rocher."] },
+  { "key": "salon", "term": "SALON (FAIRE LE)", "definitions": ["Début littéraire qui pose très bien son homme."] },
+  { "key": "sante", "term": "SANTÉ", "definitions": ["Trop de santé, cause de maladies."] },
+  {
+    "key": "saphique-et-adonique",
+    "term": "SAPHIQUE ET ADONIQUE (VERS)",
+    "definitions": ["Produit un excellent effet dans un article de littérature."]
+  },
+  { "key": "satrape", "term": "SATRAPE", "definitions": ["Homme riche et débauché."] },
+  { "key": "saturnales", "term": "SATURNALES", "definitions": ["Fêtes du Directoire."] },
+  {
+    "key": "savants",
+    "term": "SAVANTS",
+    "definitions": ["Les blaguer.", "Pour être savant il ne faut que de la mémoire et du travail."]
+  },
+  {
+    "key": "scudery",
+    "term": "SCUDÉRY",
+    "definitions": ["On doit le blaguer, sans savoir si c'était un homme ou une femme."]
+  },
+  { "key": "seneque", "term": "SÉNÈQUE", "definitions": ["Écrivait sur un pupitre d'or."] },
+  { "key": "serpent", "term": "SERPENT", "definitions": ["Tous venimeux."] },
+  {
+    "key": "service",
+    "term": "SERVICE",
+    "definitions": [
+      "C'est rendre service: aux enfants, que de les calotter; aux animaux, que de les battre; aux domestiques, que de les chasser; aux malfaiteurs, que de les punir."
+    ]
+  },
+  { "key": "seville", "term": "SÉVILLE", "definitions": ["Célèbre par son barbier (Voy. Naples)."] },
+  { "key": "site", "term": "SITE", "definitions": ["Endroit pour faire des vers."] },
+  { "key": "societe", "term": "SOCIÉTÉ", "definitions": ["Ses ennemis.", "Ce qui cause sa perte."] },
+  { "key": "somnambule", "term": "SOMNAMBULE", "definitions": ["Se promène (la nuit) sur la crête des toits."] },
+  {
+    "key": "soupiers-de-la-regence",
+    "term": "SOUPIERS DE LA RÉGENCE",
+    "definitions": ["On y dépensait encore plus d'esprit que de champagne."]
+  },
+  { "key": "soupir", "term": "SOUPIR", "definitions": ["Doit s'exhaler près d'une femme."] },
+  { "key": "spiritualisme", "term": "SPIRITUALISME", "definitions": ["Le meilleur système de philosophie."] },
+  { "key": "stoicisme", "term": "STOÏCISME", "definitions": ["Est impossible."] },
+  { "key": "stuart", "term": "STUART (MARIE)", "definitions": ["S'apitoyer sur son sort."] },
+  {
+    "key": "suffrage-universel",
+    "term": "SUFFRAGE UNIVERSEL",
+    "definitions": ["Dernier terme de la science politique."]
+  },
+  { "key": "suicide", "term": "SUICIDE", "definitions": ["Preuve de lâcheté."] },
+  { "key": "sybarites", "term": "SYBARITES", "definitions": ["Tonner contre."] },
+  { "key": "syphilis", "term": "SYPHILIS", "definitions": ["Plus ou moins, tout le monde en est affecté."] },
+  {
+    "key": "tabac",
+    "term": "TABAC",
+    "definitions": ["Cause (de toutes les maladies du cerveau et) (des maladies) de la moelle épinière."]
+  },
+  { "key": "talleyrand", "term": "TALLEYRAND (LE PRINCE DE)", "definitions": ["S'indigner contre."] },
+  { "key": "temps", "term": "TEMPS", "definitions": ["Éternel sujet de conversation.", "Toujours s'en plaindre."] },
+  {
+    "key": "theme",
+    "term": "THÈME",
+    "definitions": [
+      "Au collège prouve l'application, comme la version prouve l'intelligence.",
+      "Mais dans le monde il faut rire des forts en thème."
+    ]
+  },
+  { "key": "toilette-des-dames", "term": "TOILETTE DES DAMES", "definitions": ["Trouble l'imagination."] },
+  {
+    "key": "tolerance",
+    "term": "TOLÉRANCE (UNE MAISON DE)",
+    "definitions": ["N'est pas celle où on a des opinions tolérantes."]
+  },
+  {
+    "key": "tour",
+    "term": "TOUR",
+    "definitions": ["Indispensable à avoir dans son grenier, à la campagne, pour les jours de pluie."]
+  },
+  { "key": "transpiration-des-pieds", "term": "TRANSPIRATION DES PIEDS", "definitions": ["Signe de santé."] },
+  {
+    "key": "ukase",
+    "term": "UKASE",
+    "definitions": ["Appeler «Ukase» tout décret autoritaire, ça vexe le gouvernement."]
+  },
+  { "key": "universite", "term": "UNIVERSITÉ", "definitions": ["«Alma mater.»"] },
+  { "key": "vaccine", "term": "VACCINÉ", "definitions": ["Ne fréquenter que des personnes vaccinées."] },
+  { "key": "valse", "term": "VALSE", "definitions": ["S'indigner contre."] },
+  { "key": "veillee", "term": "VEILLÉE", "definitions": ["Celles de la campagne sont morales."] },
+  { "key": "velours", "term": "VELOURS", "definitions": ["Sur les habits, distinction et richesse."] },
+  { "key": "vente", "term": "VENTE", "definitions": ["Vendre et acheter, but de la vie."] },
+  {
+    "key": "vieillard",
+    "term": "VIEILLARD",
+    "definitions": [
+      "À propos d'une inondation, d'un orage, etc., les vieillards du pays ne se rappellent jamais en avoir vu un semblable."
+    ]
+  },
+  {
+    "key": "vins",
+    "term": "VINS",
+    "definitions": [
+      "Sujet de conversation entre hommes.",
+      "Le meilleur est le bordeaux, puisque les médecins l'ordonnent.",
+      "Plus il est mauvais, plus il est naturel."
+    ]
+  },
+  { "key": "vizir", "term": "VIZIR", "definitions": ["Tremble à la vue d'un cordon."] },
+  {
+    "key": "voisins",
+    "term": "VOISINS",
+    "definitions": ["Tâcher de se faire rendre par eux des services sans qu'il en coûte rien."]
+  },
+  {
+    "key": "voitures",
+    "term": "VOITURES",
+    "definitions": [
+      "Plus commode d'en louer que d'en posséder: de cette manière on n'a pas le tracas des domestiques, ni des chevaux qui sont toujours malades."
+    ]
+  },
+  {
+    "key": "voltaire",
+    "term": "VOLTAIRE",
+    "definitions": ["Célèbre par son «rictus» épouvantable.", "Science superficielle."]
+  },
+  { "key": "voyage", "term": "VOYAGE", "definitions": ["Doit être fait rapidement."] },
+  {
+    "key": "wagner",
+    "term": "WAGNER",
+    "definitions": ["Ricaner quand on entend son nom, et faire des plaisanteries sur la musique de l'avenir."]
+  },
+  { "key": "yvetot", "term": "YVETOT", "definitions": ["Voir Yvetot et mourir."] }
+]
